@@ -1,6 +1,7 @@
 title: Meet the Tiger
 format: horizontal
 theme: sunset
+voice: af_bella
 rate: 150
 ---
 

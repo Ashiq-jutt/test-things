@@ -45,13 +45,13 @@ The settings block at the top is optional. It ends with a `---` line and accepts
 |---|---|
 | `--format` | `vertical` (9:16), `horizontal` (16:9) or `square` |
 | `--theme` | `midnight`, `sunset`, `forest` or `paper` |
-| `--voice` | macOS voice to narrate with |
+| `--voice` | Voice to narrate with (default `af_heart`) |
 | `--rate` | Speaking speed in words per minute (default 175) |
 | `--music` | Background music file, played quietly under the voice |
 | `--no-voice` | Captions only, no narration |
 | `--ai` | Claude writes a headline and picks an emoji for each scene |
 | `--out` | Where to save the video |
-| `--list-voices` | Show the voices installed on this Mac |
+| `--list-voices` | Show the available voices |
 
 Options on the command line override the settings in the script.
 
@@ -64,7 +64,14 @@ Options on the command line override the settings in the script.
 
 ## Voices
 
-Run `node src/cli.mjs --list-voices` to see what is installed. Better-sounding voices (Premium and Enhanced) are a free download in **System Settings > Accessibility > Spoken Content > System Voice > Manage Voices**. Voices exist for many languages, so write the script in the language of the voice you choose.
+Run `node src/cli.mjs --list-voices` to see every voice. There are two kinds:
+
+| Kind | Examples | Languages | Use in monetized videos |
+|---|---|---|---|
+| Natural voices (default) | `af_heart`, `am_puck`, `bf_emma` | English | Yes. They come from Kokoro, an open-source model under the Apache 2.0 licence. |
+| macOS voices | `Samantha`, `Lekha` | Many | No. Apple allows personal, non-commercial use only. |
+
+Natural voices run on your computer. The first use downloads the voice model (about 90 MB).
 
 ## The `--ai` option
 
@@ -72,7 +79,7 @@ This runs `claude -p` using the Claude Code login on this machine, so it counts 
 
 ## Requirements
 
-- macOS (narration uses the built-in `say` command)
+- macOS (only needed for the macOS voices, which use the built-in `say` command)
 - Node.js 20 or newer
 - ffmpeg (`brew install ffmpeg`)
 

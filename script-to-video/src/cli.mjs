@@ -4,7 +4,7 @@ import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
 import { parseScript } from './parse.mjs';
-import { listVoices, resolveVoice, writeWav } from './tts.mjs';
+import { DEFAULT_VOICE, NATURAL_VOICES, listVoices, resolveVoice, writeWav } from './tts.mjs';
 import { buildTimeline } from './timeline.mjs';
 import { enrichScenes } from './ai.mjs';
 import { FORMATS, addAudio, renderVisuals } from './render.mjs';
@@ -20,13 +20,13 @@ Options:
   --out <file>       Where to save the video (default: output/<script name>.mp4)
   --format <name>    vertical (9:16), horizontal (16:9) or square (default: vertical)
   --theme <name>     ${THEME_NAMES.join(', ')} (default: midnight)
-  --voice <name>     macOS voice to narrate with (see --list-voices)
+  --voice <name>     Voice to narrate with (default: ${DEFAULT_VOICE}, see --list-voices)
   --rate <number>    Speaking speed in words per minute (default: 175)
   --music <file>     Background music, played quietly under the voice
   --no-voice         Captions only, no narration
   --ai               Let Claude add a headline and emoji to each scene
                      (uses your Claude Code login, no API key)
-  --list-voices      Show the voices installed on this Mac
+  --list-voices      Show the available voices
   --help             Show this message
 `;
 
@@ -42,12 +42,15 @@ function status(message) {
 async function printVoices() {
   const voices = await listVoices();
   const novelty = /^(Bad News|Bahh|Bells|Boing|Bubbles|Cellos|Good News|Jester|Organ|Superstar|Trinoids|Whisper|Wobble|Zarvox|Albert|Fred|Junior|Kathy|Ralph)$/;
-  console.log('\nVoices installed on this Mac:\n');
+  console.log(`\nNatural voices (English, free for commercial use). Default: ${DEFAULT_VOICE}\n`);
+  for (const voice of NATURAL_VOICES) {
+    console.log(`  ${voice.name.padEnd(28)} ${voice.about}`);
+  }
+  console.log('\nmacOS voices (other languages, personal use only):\n');
   for (const voice of voices.filter((v) => !novelty.test(v.name))) {
     console.log(`  ${voice.name.padEnd(28)} ${voice.locale}`);
   }
-  console.log('\nMore natural voices can be downloaded in');
-  console.log('System Settings > Accessibility > Spoken Content > System Voice > Manage Voices.\n');
+  console.log('');
 }
 
 async function main() {
@@ -102,7 +105,7 @@ async function main() {
   try {
     console.log(`\nScript:  ${path.basename(scriptFile)} (${script.scenes.length} scenes)`);
     console.log(`Format:  ${format} ${FORMATS[format].width}x${FORMATS[format].height}, theme ${theme}`);
-    console.log(`Voice:   ${withVoice ? (voice ?? 'system default') : 'none'}\n`);
+    console.log(`Voice:   ${withVoice ? voice.name : 'none'}\n`);
 
     let scenes = script.scenes;
     if (values.ai) {

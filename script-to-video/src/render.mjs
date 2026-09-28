@@ -10,6 +10,8 @@ const run = promisify(execFile);
 
 const ENTRY_POINT = fileURLToPath(new URL('../remotion/index.jsx', import.meta.url));
 const MUSIC_VOLUME = 0.12;
+// Brings every voice to the same loudness, close to what YouTube plays at.
+const VOICE_LEVEL = 'loudnorm=I=-16:TP=-1.5:LRA=11';
 
 export const FORMATS = {
   vertical: { width: 1080, height: 1920 },
@@ -68,16 +70,14 @@ export async function addAudio({ visuals, voice, music, totalDuration, output })
   if (voice && music) {
     args.push(
       '-filter_complex',
-      `[2:a]volume=${MUSIC_VOLUME}[music];[1:a][music]amix=inputs=2:duration=first:normalize=0[audio]`,
-      '-map', '0:v',
-      '-map', '[audio]',
+      `[1:a]${VOICE_LEVEL}[voice];[2:a]volume=${MUSIC_VOLUME}[music];[voice][music]amix=inputs=2:duration=first:normalize=0[audio]`,
     );
   } else if (music) {
-    args.push('-filter_complex', `[1:a]volume=${MUSIC_VOLUME * 2.5}[audio]`, '-map', '0:v', '-map', '[audio]');
+    args.push('-filter_complex', `[1:a]volume=${MUSIC_VOLUME * 2.5}[audio]`);
   } else {
-    args.push('-map', '0:v', '-map', '1:a');
+    args.push('-filter_complex', `[1:a]${VOICE_LEVEL}[audio]`);
   }
 
-  args.push('-c:v', 'copy', '-c:a', 'aac', '-b:a', '192k', '-t', totalDuration.toFixed(3), '-movflags', '+faststart', output);
+  args.push('-map', '0:v', '-map', '[audio]', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '192k', '-ar', '48000', '-t', totalDuration.toFixed(3), '-movflags', '+faststart', output);
   await run('ffmpeg', args);
 }

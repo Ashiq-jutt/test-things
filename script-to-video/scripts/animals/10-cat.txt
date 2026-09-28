@@ -1,6 +1,7 @@
 title: Meet the Cat
 format: horizontal
 theme: midnight
+voice: af_bella
 rate: 150
 ---
 

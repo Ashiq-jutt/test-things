@@ -1,6 +1,7 @@
 title: Meet the Giraffe
 format: horizontal
 theme: sunset
+voice: af_bella
 rate: 150
 ---
 
