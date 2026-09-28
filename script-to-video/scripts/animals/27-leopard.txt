@@ -1,0 +1,34 @@
+title: Meet the Leopard
+format: horizontal
+theme: sunset
+voice: af_bella
+rate: 150
+---
+
+# Meet the Leopard
+[image: photos/leopard-title.jpg]
+Hello friends! Today we will meet the leopard. Leopards are strong cats with spots.
+
+# What does it look like?
+[image: photos/leopard-looks.jpg]
+A leopard has golden fur with dark spots. It has a long tail.
+
+# Where does it live?
+[image: photos/leopard-where.jpg]
+Leopards live in Africa and Asia. They live in forests and grasslands.
+
+# What does it eat?
+[image: photos/leopard-eat.jpg]
+Leopards eat meat. They hunt mostly at night.
+
+# Tree climbers
+[image: photos/leopard-extra.jpg]
+Leopards are great climbers. They rest on tree branches. They even carry their food up the tree.
+
+# Fun fact
+[image: photos/leopard-fact.jpg]
+A leopard's spots help it hide in the grass and trees.
+
+# See you next time
+[image: photos/leopard-bye.jpg]
+Goodbye, leopard! See you next time, friends.

@@ -1,0 +1,34 @@
+title: Meet the Alpaca
+format: horizontal
+theme: forest
+voice: af_bella
+rate: 150
+---
+
+# Meet the Alpaca
+[image: photos/alpaca-title.jpg]
+Hello friends! Today we will meet the alpaca. Alpacas are small and very fluffy.
+
+# What does it look like?
+[image: photos/alpaca-looks.jpg]
+An alpaca looks like a small llama. It has soft, fluffy wool and a short face.
+
+# Where does it live?
+[image: photos/alpaca-where.jpg]
+Alpacas live in the mountains of South America. Many alpacas live on farms.
+
+# What does it eat?
+[image: photos/alpaca-eat.jpg]
+Alpacas eat grass and hay.
+
+# Soft wool
+[image: photos/alpaca-extra.jpg]
+Alpaca wool is very soft and warm. People use it to make sweaters and scarves.
+
+# Fun fact
+[image: photos/alpaca-fact.jpg]
+Alpacas come in many colors, like white, brown, and black. They make a soft humming sound.
+
+# See you next time
+[image: photos/alpaca-bye.jpg]
+Goodbye, alpaca! See you next time, friends.

@@ -1,0 +1,34 @@
+title: Meet the Orangutan
+format: horizontal
+theme: forest
+voice: af_bella
+rate: 150
+---
+
+# Meet the Orangutan
+[image: photos/orangutan-title.jpg]
+Hello friends! Today we will meet the orangutan. Orangutans have long orange hair.
+
+# What does it look like?
+[image: photos/orangutan-looks.jpg]
+An orangutan has orange hair and very long arms. Its arms are longer than its legs.
+
+# Where does it live?
+[image: photos/orangutan-where.jpg]
+Orangutans live in rainforests in Asia. They spend most of their time up in the trees.
+
+# What does it eat?
+[image: photos/orangutan-eat.jpg]
+Orangutans eat fruit and leaves.
+
+# Swinging in the trees
+[image: photos/orangutan-extra.jpg]
+Orangutans swing from branch to branch with their long arms.
+
+# Fun fact
+[image: photos/orangutan-fact.jpg]
+An orangutan makes a bed of leaves in the trees every night. When it rains, it holds a big leaf like an umbrella!
+
+# See you next time
+[image: photos/orangutan-bye.jpg]
+Goodbye, orangutan! See you next time, friends.

@@ -1,0 +1,34 @@
+title: Meet the Armadillo
+format: horizontal
+theme: sunset
+voice: af_bella
+rate: 150
+---
+
+# Meet the Armadillo
+[image: photos/armadillo-title.jpg]
+Hello friends! Today we will meet the armadillo. The armadillo wears a suit of armor.
+
+# What does it look like?
+[image: photos/armadillo-looks.jpg]
+An armadillo has a hard shell on its back, a pointy nose, and strong claws.
+
+# Where does it live?
+[image: photos/armadillo-where.jpg]
+Armadillos live in warm places in North and South America.
+
+# What does it eat?
+[image: photos/armadillo-eat.jpg]
+Armadillos eat insects, worms, and plants.
+
+# A hard shell
+[image: photos/armadillo-extra.jpg]
+The hard shell keeps the armadillo safe. Some armadillos can roll into a ball!
+
+# Fun fact
+[image: photos/armadillo-fact.jpg]
+Armadillos are great diggers. They sleep for most of the day.
+
+# See you next time
+[image: photos/armadillo-bye.jpg]
+Goodbye, armadillo! See you next time, friends.

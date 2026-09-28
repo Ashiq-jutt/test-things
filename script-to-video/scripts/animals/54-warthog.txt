@@ -1,0 +1,34 @@
+title: Meet the Warthog
+format: horizontal
+theme: sunset
+voice: af_bella
+rate: 150
+---
+
+# Meet the Warthog
+[image: photos/warthog-title.jpg]
+Hello friends! Today we will meet the warthog. The warthog is a wild pig from Africa.
+
+# What does it look like?
+[image: photos/warthog-looks.jpg]
+A warthog has a big head, long tusks, and bumps on its face.
+
+# Where does it live?
+[image: photos/warthog-where.jpg]
+Warthogs live in the grasslands of Africa.
+
+# What does it eat?
+[image: photos/warthog-eat.jpg]
+Warthogs eat grass, roots, and fruit. They kneel down on their front knees to eat.
+
+# A home under the ground
+[image: photos/warthog-extra.jpg]
+Warthogs sleep in holes under the ground. They go in backwards!
+
+# Fun fact
+[image: photos/warthog-fact.jpg]
+When a warthog runs, its tail stands straight up, like a little flag!
+
+# See you next time
+[image: photos/warthog-bye.jpg]
+Goodbye, warthog! See you next time, friends.

@@ -1,0 +1,34 @@
+title: Meet the Chimpanzee
+format: horizontal
+theme: forest
+voice: af_bella
+rate: 150
+---
+
+# Meet the Chimpanzee
+[image: photos/chimpanzee-title.jpg]
+Hello friends! Today we will meet the chimpanzee. Chimpanzees are very clever.
+
+# What does it look like?
+[image: photos/chimpanzee-looks.jpg]
+A chimpanzee has black hair, long arms, and big ears. It has no tail.
+
+# Where does it live?
+[image: photos/chimpanzee-where.jpg]
+Chimpanzees live in the forests of Africa.
+
+# What does it eat?
+[image: photos/chimpanzee-eat.jpg]
+Chimpanzees eat fruit, leaves, nuts, and insects.
+
+# Using tools
+[image: photos/chimpanzee-extra.jpg]
+Chimpanzees use tools. They use a stick to catch insects and a stone to open nuts.
+
+# Fun fact
+[image: photos/chimpanzee-fact.jpg]
+Chimpanzees hug and hold hands, just like people do.
+
+# See you next time
+[image: photos/chimpanzee-bye.jpg]
+Goodbye, chimpanzee! See you next time, friends.

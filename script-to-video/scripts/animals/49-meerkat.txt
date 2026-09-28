@@ -1,0 +1,34 @@
+title: Meet the Meerkat
+format: horizontal
+theme: sunset
+voice: af_bella
+rate: 150
+---
+
+# Meet the Meerkat
+[image: photos/meerkat-title.jpg]
+Hello friends! Today we will meet the meerkat. Meerkats are small and very curious.
+
+# What does it look like?
+[image: photos/meerkat-looks.jpg]
+A meerkat has a thin body, a pointy face, and dark patches around its eyes.
+
+# Where does it live?
+[image: photos/meerkat-where.jpg]
+Meerkats live in the deserts of southern Africa. Their homes are under the ground.
+
+# What does it eat?
+[image: photos/meerkat-eat.jpg]
+Meerkats eat insects, lizards, and small animals.
+
+# Standing guard
+[image: photos/meerkat-extra.jpg]
+One meerkat stands up tall and looks for danger. It calls out to keep the family safe.
+
+# Fun fact
+[image: photos/meerkat-fact.jpg]
+Meerkats live in a big group called a mob. Can you stand up tall like a meerkat?
+
+# See you next time
+[image: photos/meerkat-bye.jpg]
+Goodbye, meerkat! See you next time, friends.

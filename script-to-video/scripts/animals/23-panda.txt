@@ -1,0 +1,34 @@
+title: Meet the Panda
+format: horizontal
+theme: forest
+voice: af_bella
+rate: 150
+---
+
+# Meet the Panda
+[image: photos/panda-title.jpg]
+Hello friends! Today we will meet the panda. Pandas are black and white bears.
+
+# What does it look like?
+[image: photos/panda-looks.jpg]
+A panda has white fur with black ears, black legs, and black patches around its eyes.
+
+# Where does it live?
+[image: photos/panda-where.jpg]
+Pandas live in China. They live in cool mountain forests.
+
+# What does it eat?
+[image: photos/panda-eat.jpg]
+Pandas eat bamboo. They eat for many hours every day.
+
+# Playful pandas
+[image: photos/panda-extra.jpg]
+Pandas love to climb trees and roll on the ground.
+
+# Fun fact
+[image: photos/panda-fact.jpg]
+A baby panda is very tiny when it is born. It is pink and has almost no fur!
+
+# See you next time
+[image: photos/panda-bye.jpg]
+Goodbye, panda! See you next time, friends.

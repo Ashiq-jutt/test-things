@@ -1,0 +1,34 @@
+title: Meet the Porcupine
+format: horizontal
+theme: forest
+voice: af_bella
+rate: 150
+---
+
+# Meet the Porcupine
+[image: photos/porcupine-title.jpg]
+Hello friends! Today we will meet the porcupine. Porcupines are covered with sharp quills.
+
+# What does it look like?
+[image: photos/porcupine-looks.jpg]
+A porcupine has thousands of long, sharp quills on its back and tail.
+
+# Where does it live?
+[image: photos/porcupine-where.jpg]
+Porcupines live in forests, deserts, and grasslands.
+
+# What does it eat?
+[image: photos/porcupine-eat.jpg]
+Porcupines eat leaves, fruit, and bark from trees.
+
+# Sharp quills
+[image: photos/porcupine-extra.jpg]
+When a porcupine is scared, it lifts its quills. Then other animals stay away.
+
+# Fun fact
+[image: photos/porcupine-fact.jpg]
+A baby porcupine has soft quills when it is born. They soon become hard.
+
+# See you next time
+[image: photos/porcupine-bye.jpg]
+Goodbye, porcupine! See you next time, friends.

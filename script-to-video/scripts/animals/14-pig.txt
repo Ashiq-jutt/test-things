@@ -1,0 +1,34 @@
+title: Meet the Pig
+format: horizontal
+theme: forest
+voice: af_bella
+rate: 150
+---
+
+# Meet the Pig
+[image: photos/pig-title.jpg]
+Hello friends! Today we will meet the pig. Pigs are very smart animals.
+
+# What does it look like?
+[image: photos/pig-looks.jpg]
+A pig has a round body, a flat nose, and a curly tail. Its nose is called a snout.
+
+# Where does it live?
+[image: photos/pig-where.jpg]
+Pigs live on farms. Their home is called a pigsty.
+
+# What does it eat?
+[image: photos/pig-eat.jpg]
+Pigs eat vegetables, fruit, and grain. They use their nose to find food.
+
+# Pigs love mud
+[image: photos/pig-extra.jpg]
+Pigs roll in the mud to stay cool. The mud also keeps their skin safe from the sun.
+
+# Fun fact
+[image: photos/pig-fact.jpg]
+A baby pig is called a piglet. What does a pig say? Oink oink!
+
+# See you next time
+[image: photos/pig-bye.jpg]
+Goodbye, pig! See you next time, friends.

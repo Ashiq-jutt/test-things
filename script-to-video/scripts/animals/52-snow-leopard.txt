@@ -1,0 +1,34 @@
+title: Meet the Snow Leopard
+format: horizontal
+theme: midnight
+voice: af_bella
+rate: 150
+---
+
+# Meet the Snow Leopard
+[image: photos/snow-leopard-title.jpg]
+Hello friends! Today we will meet the snow leopard. The snow leopard lives high in the snowy mountains.
+
+# What does it look like?
+[image: photos/snow-leopard-looks.jpg]
+A snow leopard has thick gray fur with dark spots. It has a very long, fluffy tail.
+
+# Where does it live?
+[image: photos/snow-leopard-where.jpg]
+Snow leopards live in the cold mountains of Asia.
+
+# What does it eat?
+[image: photos/snow-leopard-eat.jpg]
+Snow leopards eat meat. They hunt wild sheep and goats.
+
+# Made for snow
+[image: photos/snow-leopard-extra.jpg]
+A snow leopard has big, furry paws. They work like snowshoes on the snow.
+
+# Fun fact
+[image: photos/snow-leopard-fact.jpg]
+A snow leopard cannot roar. But it can jump very, very far!
+
+# See you next time
+[image: photos/snow-leopard-bye.jpg]
+Goodbye, snow leopard! See you next time, friends.

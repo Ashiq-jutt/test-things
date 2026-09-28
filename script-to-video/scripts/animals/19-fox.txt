@@ -1,0 +1,34 @@
+title: Meet the Fox
+format: horizontal
+theme: sunset
+voice: af_bella
+rate: 150
+---
+
+# Meet the Fox
+[image: photos/fox-title.jpg]
+Hello friends! Today we will meet the fox. Foxes are clever and quick.
+
+# What does it look like?
+[image: photos/fox-looks.jpg]
+A fox has orange fur, pointy ears, and a big fluffy tail.
+
+# Where does it live?
+[image: photos/fox-where.jpg]
+Foxes live in forests and fields. Some foxes even live near towns.
+
+# What does it eat?
+[image: photos/fox-eat.jpg]
+Foxes eat mice, birds, insects, and fruit.
+
+# A cozy home
+[image: photos/fox-extra.jpg]
+A fox lives in a home under the ground. It is called a den.
+
+# Fun fact
+[image: photos/fox-fact.jpg]
+A fox can hear a mouse moving under the snow! A baby fox is called a kit.
+
+# See you next time
+[image: photos/fox-bye.jpg]
+Goodbye, fox! See you next time, friends.

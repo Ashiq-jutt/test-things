@@ -1,0 +1,34 @@
+title: Meet the Llama
+format: horizontal
+theme: sunset
+voice: af_bella
+rate: 150
+---
+
+# Meet the Llama
+[image: photos/llama-title.jpg]
+Hello friends! Today we will meet the llama. Llamas are friendly animals with long necks.
+
+# What does it look like?
+[image: photos/llama-looks.jpg]
+A llama has a long neck, long legs, and thick woolly fur. Its ears are shaped like bananas.
+
+# Where does it live?
+[image: photos/llama-where.jpg]
+Llamas live in the mountains of South America.
+
+# What does it eat?
+[image: photos/llama-eat.jpg]
+Llamas eat grass and plants.
+
+# Llamas help people
+[image: photos/llama-extra.jpg]
+Llamas carry bags for people on mountain paths.
+
+# Fun fact
+[image: photos/llama-fact.jpg]
+When a llama is angry, it spits! Llamas also hum to talk to each other.
+
+# See you next time
+[image: photos/llama-bye.jpg]
+Goodbye, llama! See you next time, friends.

@@ -1,0 +1,34 @@
+title: Meet the Goat
+format: horizontal
+theme: forest
+voice: af_bella
+rate: 150
+---
+
+# Meet the Goat
+[image: photos/goat-title.jpg]
+Hello friends! Today we will meet the goat. Goats are clever and love to climb.
+
+# What does it look like?
+[image: photos/goat-looks.jpg]
+A goat has two horns and a little beard under its chin.
+
+# Where does it live?
+[image: photos/goat-where.jpg]
+Goats live on farms. Wild goats live high up in the mountains.
+
+# What does it eat?
+[image: photos/goat-eat.jpg]
+Goats eat grass, leaves, and small plants.
+
+# Great climbers
+[image: photos/goat-extra.jpg]
+Goats are very good at climbing. They can walk on steep rocks and they do not fall.
+
+# Fun fact
+[image: photos/goat-fact.jpg]
+A baby goat is called a kid. Yes, just like you! What does a goat say? Maa!
+
+# See you next time
+[image: photos/goat-bye.jpg]
+Goodbye, goat! See you next time, friends.

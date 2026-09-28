@@ -1,0 +1,34 @@
+title: Meet the Tortoise
+format: horizontal
+theme: sunset
+voice: af_bella
+rate: 150
+---
+
+# Meet the Tortoise
+[image: photos/tortoise-title.jpg]
+Hello friends! Today we will meet the tortoise. The tortoise is slow and steady.
+
+# What does it look like?
+[image: photos/tortoise-looks.jpg]
+A tortoise has a hard round shell, short strong legs, and wrinkly skin.
+
+# Where does it live?
+[image: photos/tortoise-where.jpg]
+Tortoises live on land. They live in warm, dry places.
+
+# What does it eat?
+[image: photos/tortoise-eat.jpg]
+Tortoises eat grass, leaves, flowers, and fruit.
+
+# A house on its back
+[image: photos/tortoise-extra.jpg]
+The shell is the home of the tortoise. When it is scared, it pulls its head and legs inside.
+
+# Fun fact
+[image: photos/tortoise-fact.jpg]
+Tortoises live for a very long time. Some tortoises live for more than one hundred years!
+
+# See you next time
+[image: photos/tortoise-bye.jpg]
+Goodbye, tortoise! See you next time, friends.

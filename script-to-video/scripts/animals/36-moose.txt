@@ -1,0 +1,34 @@
+title: Meet the Moose
+format: horizontal
+theme: forest
+voice: af_bella
+rate: 150
+---
+
+# Meet the Moose
+[image: photos/moose-title.jpg]
+Hello friends! Today we will meet the moose. The moose is the biggest deer in the world.
+
+# What does it look like?
+[image: photos/moose-looks.jpg]
+A moose has long legs, a big nose, and huge flat antlers.
+
+# Where does it live?
+[image: photos/moose-where.jpg]
+Moose live in cold forests in the north. They live near lakes and rivers.
+
+# What does it eat?
+[image: photos/moose-eat.jpg]
+Moose eat leaves, twigs, and water plants.
+
+# Huge antlers
+[image: photos/moose-extra.jpg]
+Only the daddy moose has antlers. They fall off in winter and grow back in spring.
+
+# Fun fact
+[image: photos/moose-fact.jpg]
+A moose is a good swimmer. It can put its head under the water to eat plants.
+
+# See you next time
+[image: photos/moose-bye.jpg]
+Goodbye, moose! See you next time, friends.

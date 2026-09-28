@@ -1,0 +1,34 @@
+title: Meet the Koala
+format: horizontal
+theme: forest
+voice: af_bella
+rate: 150
+---
+
+# Meet the Koala
+[image: photos/koala-title.jpg]
+Hello friends! Today we will meet the koala. Koalas are soft and sleepy.
+
+# What does it look like?
+[image: photos/koala-looks.jpg]
+A koala has gray fur, round fluffy ears, and a big black nose.
+
+# Where does it live?
+[image: photos/koala-where.jpg]
+Koalas live in Australia. They live high up in the trees.
+
+# What does it eat?
+[image: photos/koala-eat.jpg]
+Koalas eat leaves from the eucalyptus tree.
+
+# Sleepy koalas
+[image: photos/koala-extra.jpg]
+Koalas sleep for most of the day. They hold on to the tree while they sleep.
+
+# Fun fact
+[image: photos/koala-fact.jpg]
+A koala is not a bear. A mother koala carries her baby in a pouch, just like a kangaroo.
+
+# See you next time
+[image: photos/koala-bye.jpg]
+Goodbye, koala! See you next time, friends.

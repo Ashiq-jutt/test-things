@@ -1,0 +1,34 @@
+title: Meet the Hamster
+format: horizontal
+theme: midnight
+voice: af_bella
+rate: 150
+---
+
+# Meet the Hamster
+[image: photos/hamster-title.jpg]
+Hello friends! Today we will meet the hamster. Hamsters are tiny and cute.
+
+# What does it look like?
+[image: photos/hamster-looks.jpg]
+A hamster has soft fur, small round ears, and a very short tail.
+
+# Where does it live?
+[image: photos/hamster-where.jpg]
+Many hamsters live at home as pets. Wild hamsters live in dry places and dig homes under the ground.
+
+# What does it eat?
+[image: photos/hamster-eat.jpg]
+Hamsters eat seeds, grain, and vegetables.
+
+# Big cheeks
+[image: photos/hamster-extra.jpg]
+A hamster has big cheeks. It fills them with food and carries the food home.
+
+# Fun fact
+[image: photos/hamster-fact.jpg]
+Hamsters sleep in the day and play at night. They love to run on a wheel!
+
+# See you next time
+[image: photos/hamster-bye.jpg]
+Goodbye, hamster! See you next time, friends.

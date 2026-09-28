@@ -1,0 +1,34 @@
+title: Meet the Cheetah
+format: horizontal
+theme: sunset
+voice: af_bella
+rate: 150
+---
+
+# Meet the Cheetah
+[image: photos/cheetah-title.jpg]
+Hello friends! Today we will meet the cheetah. The cheetah is the fastest animal on land.
+
+# What does it look like?
+[image: photos/cheetah-looks.jpg]
+A cheetah has a thin body, long legs, and black spots. It has black lines on its face that look like tears.
+
+# Where does it live?
+[image: photos/cheetah-where.jpg]
+Cheetahs live in the grasslands of Africa.
+
+# What does it eat?
+[image: photos/cheetah-eat.jpg]
+Cheetahs eat meat. They hunt in the daytime.
+
+# So fast!
+[image: photos/cheetah-extra.jpg]
+A cheetah can run as fast as a car on the road. But it gets tired quickly.
+
+# Fun fact
+[image: photos/cheetah-fact.jpg]
+Cheetahs cannot roar like lions. They purr like a cat instead!
+
+# See you next time
+[image: photos/cheetah-bye.jpg]
+Goodbye, cheetah! See you next time, friends.

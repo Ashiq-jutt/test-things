@@ -1,0 +1,34 @@
+title: Meet the Squirrel
+format: horizontal
+theme: forest
+voice: af_bella
+rate: 150
+---
+
+# Meet the Squirrel
+[image: photos/squirrel-title.jpg]
+Hello friends! Today we will meet the squirrel. Squirrels are small and quick.
+
+# What does it look like?
+[image: photos/squirrel-looks.jpg]
+A squirrel has soft fur, bright eyes, and a big bushy tail.
+
+# Where does it live?
+[image: photos/squirrel-where.jpg]
+Squirrels live in trees. You can see them in forests and in parks.
+
+# What does it eat?
+[image: photos/squirrel-eat.jpg]
+Squirrels eat nuts, seeds, and fruit.
+
+# Saving food
+[image: photos/squirrel-extra.jpg]
+Squirrels hide nuts in the ground. They save them to eat in winter.
+
+# Fun fact
+[image: photos/squirrel-fact.jpg]
+A squirrel uses its tail to keep its balance. When it is cold, the tail is a warm blanket.
+
+# See you next time
+[image: photos/squirrel-bye.jpg]
+Goodbye, squirrel! See you next time, friends.

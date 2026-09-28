@@ -1,0 +1,34 @@
+title: Meet the Yak
+format: horizontal
+theme: midnight
+voice: af_bella
+rate: 150
+---
+
+# Meet the Yak
+[image: photos/yak-title.jpg]
+Hello friends! Today we will meet the yak. The yak looks like a cow with very long hair.
+
+# What does it look like?
+[image: photos/yak-looks.jpg]
+A yak has long, thick hair and big horns. Its hair almost touches the ground.
+
+# Where does it live?
+[image: photos/yak-where.jpg]
+Yaks live high up in the cold mountains of Asia.
+
+# What does it eat?
+[image: photos/yak-eat.jpg]
+Yaks eat grass and small mountain plants.
+
+# Yaks help people
+[image: photos/yak-extra.jpg]
+Yaks carry heavy things up the mountains. They also give milk and wool.
+
+# Fun fact
+[image: photos/yak-fact.jpg]
+A yak's thick coat keeps it warm, even in the freezing snow.
+
+# See you next time
+[image: photos/yak-bye.jpg]
+Goodbye, yak! See you next time, friends.

@@ -1,0 +1,34 @@
+title: Meet the Hedgehog
+format: horizontal
+theme: forest
+voice: af_bella
+rate: 150
+---
+
+# Meet the Hedgehog
+[image: photos/hedgehog-title.jpg]
+Hello friends! Today we will meet the hedgehog. Hedgehogs are small and spiky.
+
+# What does it look like?
+[image: photos/hedgehog-looks.jpg]
+A hedgehog has sharp spikes on its back. It has a small face and a pointy nose.
+
+# Where does it live?
+[image: photos/hedgehog-where.jpg]
+Hedgehogs live in gardens, fields, and forests.
+
+# What does it eat?
+[image: photos/hedgehog-eat.jpg]
+Hedgehogs eat insects, worms, and snails.
+
+# Rolling into a ball
+[image: photos/hedgehog-extra.jpg]
+When a hedgehog is scared, it rolls into a ball. The spikes keep it safe.
+
+# Fun fact
+[image: photos/hedgehog-fact.jpg]
+Hedgehogs sleep in the day and wake up at night.
+
+# See you next time
+[image: photos/hedgehog-bye.jpg]
+Goodbye, hedgehog! See you next time, friends.

@@ -1,0 +1,34 @@
+title: Meet the Sloth
+format: horizontal
+theme: forest
+voice: af_bella
+rate: 150
+---
+
+# Meet the Sloth
+[image: photos/sloth-title.jpg]
+Hello friends! Today we will meet the sloth. The sloth is a very, very slow animal.
+
+# What does it look like?
+[image: photos/sloth-looks.jpg]
+A sloth has long arms and long curved claws. Its face looks like it is smiling.
+
+# Where does it live?
+[image: photos/sloth-where.jpg]
+Sloths live in rainforests in Central and South America. They live up in the trees.
+
+# What does it eat?
+[image: photos/sloth-eat.jpg]
+Sloths eat leaves, buds, and fruit.
+
+# Upside down
+[image: photos/sloth-extra.jpg]
+Sloths hang upside down from branches. They even sleep upside down!
+
+# Fun fact
+[image: photos/sloth-fact.jpg]
+Sloths move very slowly on land. But they are good swimmers!
+
+# See you next time
+[image: photos/sloth-bye.jpg]
+Goodbye, sloth! See you next time, friends.

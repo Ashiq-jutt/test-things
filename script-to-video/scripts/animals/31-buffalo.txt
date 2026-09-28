@@ -1,0 +1,34 @@
+title: Meet the Buffalo
+format: horizontal
+theme: sunset
+voice: af_bella
+rate: 150
+---
+
+# Meet the Buffalo
+[image: photos/buffalo-title.jpg]
+Hello friends! Today we will meet the buffalo. Buffaloes are big and strong.
+
+# What does it look like?
+[image: photos/buffalo-looks.jpg]
+A buffalo has a big dark body and two large curved horns.
+
+# Where does it live?
+[image: photos/buffalo-where.jpg]
+Some buffaloes live in the grasslands of Africa. Others live on farms in Asia.
+
+# What does it eat?
+[image: photos/buffalo-eat.jpg]
+Buffaloes eat grass and plants.
+
+# Buffalo herd
+[image: photos/buffalo-extra.jpg]
+Buffaloes live in a big group called a herd. They look after each other.
+
+# Fun fact
+[image: photos/buffalo-fact.jpg]
+On many farms, buffaloes give milk, just like cows.
+
+# See you next time
+[image: photos/buffalo-bye.jpg]
+Goodbye, buffalo! See you next time, friends.

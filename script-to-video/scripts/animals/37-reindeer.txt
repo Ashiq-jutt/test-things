@@ -1,0 +1,34 @@
+title: Meet the Reindeer
+format: horizontal
+theme: midnight
+voice: af_bella
+rate: 150
+---
+
+# Meet the Reindeer
+[image: photos/reindeer-title.jpg]
+Hello friends! Today we will meet the reindeer. Reindeer live in cold, snowy places.
+
+# What does it look like?
+[image: photos/reindeer-looks.jpg]
+A reindeer has thick fur and big antlers. Both the mommy and the daddy have antlers.
+
+# Where does it live?
+[image: photos/reindeer-where.jpg]
+Reindeer live in the far north, where it is very cold.
+
+# What does it eat?
+[image: photos/reindeer-eat.jpg]
+Reindeer eat grass, leaves, and moss. In winter, they dig in the snow to find food.
+
+# Made for snow
+[image: photos/reindeer-extra.jpg]
+Reindeer have wide feet. Their feet help them walk on top of the snow.
+
+# Fun fact
+[image: photos/reindeer-fact.jpg]
+Reindeer walk a very long way every year to find food.
+
+# See you next time
+[image: photos/reindeer-bye.jpg]
+Goodbye, reindeer! See you next time, friends.

@@ -1,0 +1,34 @@
+title: Meet the Donkey
+format: horizontal
+theme: sunset
+voice: af_bella
+rate: 150
+---
+
+# Meet the Donkey
+[image: photos/donkey-title.jpg]
+Hello friends! Today we will meet the donkey. Donkeys are strong and gentle.
+
+# What does it look like?
+[image: photos/donkey-looks.jpg]
+A donkey looks like a small horse. It has very long ears.
+
+# Where does it live?
+[image: photos/donkey-where.jpg]
+Donkeys live on farms. They can also live in hot, dry places.
+
+# What does it eat?
+[image: photos/donkey-eat.jpg]
+Donkeys eat grass, hay, and straw.
+
+# Donkeys help people
+[image: photos/donkey-extra.jpg]
+Donkeys are very strong. They carry heavy things for people.
+
+# Fun fact
+[image: photos/donkey-fact.jpg]
+A donkey's call is very loud. What does a donkey say? Hee-haw!
+
+# See you next time
+[image: photos/donkey-bye.jpg]
+Goodbye, donkey! See you next time, friends.

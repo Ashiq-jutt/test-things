@@ -1,0 +1,34 @@
+title: Meet the Sheep
+format: horizontal
+theme: forest
+voice: af_bella
+rate: 150
+---
+
+# Meet the Sheep
+[image: photos/sheep-title.jpg]
+Hello friends! Today we will meet the sheep. Sheep are soft and woolly.
+
+# What does it look like?
+[image: photos/sheep-looks.jpg]
+A sheep has thick, curly wool all over its body. Most sheep are white.
+
+# Where does it live?
+[image: photos/sheep-where.jpg]
+Sheep live on farms. They walk on green hills and fields.
+
+# What does it eat?
+[image: photos/sheep-eat.jpg]
+Sheep eat grass. They eat for many hours every day.
+
+# Sheep give us wool
+[image: photos/sheep-extra.jpg]
+Sheep give us wool. We use wool to make warm sweaters and blankets.
+
+# Fun fact
+[image: photos/sheep-fact.jpg]
+A baby sheep is called a lamb. What does a sheep say? Baa! Can you say baa?
+
+# See you next time
+[image: photos/sheep-bye.jpg]
+Goodbye, sheep! See you next time, friends.

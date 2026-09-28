@@ -1,0 +1,34 @@
+title: Meet the Deer
+format: horizontal
+theme: forest
+voice: af_bella
+rate: 150
+---
+
+# Meet the Deer
+[image: photos/deer-title.jpg]
+Hello friends! Today we will meet the deer. Deer are gentle and shy.
+
+# What does it look like?
+[image: photos/deer-looks.jpg]
+A deer has a brown coat and long, thin legs. The daddy deer has antlers on his head.
+
+# Where does it live?
+[image: photos/deer-where.jpg]
+Deer live in forests and in fields.
+
+# What does it eat?
+[image: photos/deer-eat.jpg]
+Deer eat grass, leaves, and berries.
+
+# Antlers
+[image: photos/deer-extra.jpg]
+Antlers fall off every year. Then new antlers grow again!
+
+# Fun fact
+[image: photos/deer-fact.jpg]
+A baby deer is called a fawn. It has white spots on its back.
+
+# See you next time
+[image: photos/deer-bye.jpg]
+Goodbye, deer! See you next time, friends.

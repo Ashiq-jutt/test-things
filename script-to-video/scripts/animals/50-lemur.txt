@@ -1,0 +1,34 @@
+title: Meet the Lemur
+format: horizontal
+theme: forest
+voice: af_bella
+rate: 150
+---
+
+# Meet the Lemur
+[image: photos/lemur-title.jpg]
+Hello friends! Today we will meet the lemur. Lemurs have big bright eyes.
+
+# What does it look like?
+[image: photos/lemur-looks.jpg]
+A lemur has soft fur, big eyes, and a long tail. Some lemurs have black and white rings on their tail.
+
+# Where does it live?
+[image: photos/lemur-where.jpg]
+Lemurs live on an island called Madagascar. They live nowhere else in the wild.
+
+# What does it eat?
+[image: photos/lemur-eat.jpg]
+Lemurs eat fruit, leaves, and flowers.
+
+# Sunbathing
+[image: photos/lemur-extra.jpg]
+Lemurs love the sun. They sit up and open their arms to get warm.
+
+# Fun fact
+[image: photos/lemur-fact.jpg]
+Lemurs live in a group. In a lemur group, the females are the leaders.
+
+# See you next time
+[image: photos/lemur-bye.jpg]
+Goodbye, lemur! See you next time, friends.

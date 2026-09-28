@@ -1,0 +1,34 @@
+title: Meet the Horse
+format: horizontal
+theme: forest
+voice: af_bella
+rate: 150
+---
+
+# Meet the Horse
+[image: photos/horse-title.jpg]
+Hello friends! Today we will meet the horse. Horses are fast and strong.
+
+# What does it look like?
+[image: photos/horse-looks.jpg]
+A horse has four long legs and a long tail. It has long hair on its neck. It is called a mane.
+
+# Where does it live?
+[image: photos/horse-where.jpg]
+Horses live on farms and in open fields. Some horses still live in the wild.
+
+# What does it eat?
+[image: photos/horse-eat.jpg]
+Horses eat grass and hay. They also love apples and carrots.
+
+# Horses help people
+[image: photos/horse-extra.jpg]
+People ride horses. Horses can also pull carts and help on farms.
+
+# Fun fact
+[image: photos/horse-fact.jpg]
+A horse can sleep standing up! And a baby horse is called a foal. What does a horse say? Neigh!
+
+# See you next time
+[image: photos/horse-bye.jpg]
+Goodbye, horse! See you next time, friends.

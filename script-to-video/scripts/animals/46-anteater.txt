@@ -1,0 +1,34 @@
+title: Meet the Anteater
+format: horizontal
+theme: sunset
+voice: af_bella
+rate: 150
+---
+
+# Meet the Anteater
+[image: photos/anteater-title.jpg]
+Hello friends! Today we will meet the anteater. The anteater has a very long nose.
+
+# What does it look like?
+[image: photos/anteater-looks.jpg]
+An anteater has a long nose, a big bushy tail, and strong claws.
+
+# Where does it live?
+[image: photos/anteater-where.jpg]
+Anteaters live in the forests and grasslands of Central and South America.
+
+# What does it eat?
+[image: photos/anteater-eat.jpg]
+Anteaters eat ants and termites. They eat thousands of them every day!
+
+# The long tongue
+[image: photos/anteater-extra.jpg]
+An anteater has a very long, sticky tongue. It uses its tongue to catch ants.
+
+# Fun fact
+[image: photos/anteater-fact.jpg]
+An anteater has no teeth at all! A baby anteater rides on its mother's back.
+
+# See you next time
+[image: photos/anteater-bye.jpg]
+Goodbye, anteater! See you next time, friends.

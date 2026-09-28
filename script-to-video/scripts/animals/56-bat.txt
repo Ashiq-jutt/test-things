@@ -1,0 +1,34 @@
+title: Meet the Bat
+format: horizontal
+theme: midnight
+voice: af_bella
+rate: 150
+---
+
+# Meet the Bat
+[image: photos/bat-title.jpg]
+Hello friends! Today we will meet the bat. A bat is not a bird, but it can fly!
+
+# What does it look like?
+[image: photos/bat-looks.jpg]
+A bat has a furry body, big ears, and wings made of thin skin.
+
+# Where does it live?
+[image: photos/bat-where.jpg]
+Bats live in caves, trees, and old buildings.
+
+# What does it eat?
+[image: photos/bat-eat.jpg]
+Many bats eat insects. Some bats eat fruit.
+
+# Upside down
+[image: photos/bat-extra.jpg]
+Bats sleep in the day. They hang upside down by their feet!
+
+# Fun fact
+[image: photos/bat-fact.jpg]
+Bats fly at night. Many bats use sound to find their way in the dark.
+
+# See you next time
+[image: photos/bat-bye.jpg]
+Goodbye, bat! See you next time, friends.

@@ -1,0 +1,34 @@
+title: Meet the Hyena
+format: horizontal
+theme: sunset
+voice: af_bella
+rate: 150
+---
+
+# Meet the Hyena
+[image: photos/hyena-title.jpg]
+Hello friends! Today we will meet the hyena. Hyenas are famous for their funny laugh.
+
+# What does it look like?
+[image: photos/hyena-looks.jpg]
+A hyena has spotted fur, round ears, and a strong body. Its front legs are longer than its back legs.
+
+# Where does it live?
+[image: photos/hyena-where.jpg]
+Hyenas live in the grasslands of Africa.
+
+# What does it eat?
+[image: photos/hyena-eat.jpg]
+Hyenas eat meat. They have very strong teeth and can even chew bones.
+
+# Hyena family
+[image: photos/hyena-extra.jpg]
+Hyenas live in a big group called a clan. The leader of the clan is a female.
+
+# Fun fact
+[image: photos/hyena-fact.jpg]
+A hyena makes a sound like a laugh. Can you laugh like a hyena?
+
+# See you next time
+[image: photos/hyena-bye.jpg]
+Goodbye, hyena! See you next time, friends.

@@ -1,0 +1,34 @@
+title: Meet the Kangaroo
+format: horizontal
+theme: sunset
+voice: af_bella
+rate: 150
+---
+
+# Meet the Kangaroo
+[image: photos/kangaroo-title.jpg]
+Hello friends! Today we will meet the kangaroo. Kangaroos love to jump.
+
+# What does it look like?
+[image: photos/kangaroo-looks.jpg]
+A kangaroo has big back legs, small front arms, and a long, strong tail.
+
+# Where does it live?
+[image: photos/kangaroo-where.jpg]
+Kangaroos live in Australia. They live in open grasslands.
+
+# What does it eat?
+[image: photos/kangaroo-eat.jpg]
+Kangaroos eat grass and leaves.
+
+# The pouch
+[image: photos/kangaroo-extra.jpg]
+A mother kangaroo has a pouch on her tummy. Her baby rides inside the pouch.
+
+# Fun fact
+[image: photos/kangaroo-fact.jpg]
+A baby kangaroo is called a joey. Can you jump like a kangaroo?
+
+# See you next time
+[image: photos/kangaroo-bye.jpg]
+Goodbye, kangaroo! See you next time, friends.

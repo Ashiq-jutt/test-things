@@ -1,0 +1,34 @@
+title: Meet the Snake
+format: horizontal
+theme: forest
+voice: af_bella
+rate: 150
+---
+
+# Meet the Snake
+[image: photos/snake-title.jpg]
+Hello friends! Today we will meet the snake. Snakes have no arms and no legs.
+
+# What does it look like?
+[image: photos/snake-looks.jpg]
+A snake has a long, thin body covered with scales.
+
+# Where does it live?
+[image: photos/snake-where.jpg]
+Snakes live in forests, deserts, and grasslands.
+
+# What does it eat?
+[image: photos/snake-eat.jpg]
+Snakes eat mice, frogs, eggs, and insects. They swallow their food whole.
+
+# How snakes move
+[image: photos/snake-extra.jpg]
+A snake slides on its tummy. It moves its body from side to side.
+
+# Fun fact
+[image: photos/snake-fact.jpg]
+A snake smells with its tongue! And when a snake grows, it takes off its old skin.
+
+# See you next time
+[image: photos/snake-bye.jpg]
+Remember, never touch a snake outside. Goodbye, snake! See you next time, friends.

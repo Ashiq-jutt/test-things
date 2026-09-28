@@ -1,0 +1,34 @@
+title: Meet the Mongoose
+format: horizontal
+theme: sunset
+voice: af_bella
+rate: 150
+---
+
+# Meet the Mongoose
+[image: photos/mongoose-title.jpg]
+Hello friends! Today we will meet the mongoose. The mongoose is small, quick, and brave.
+
+# What does it look like?
+[image: photos/mongoose-looks.jpg]
+A mongoose has a long body, short legs, and a long tail.
+
+# Where does it live?
+[image: photos/mongoose-where.jpg]
+Mongooses live in Africa and Asia.
+
+# What does it eat?
+[image: photos/mongoose-eat.jpg]
+Mongooses eat insects, eggs, lizards, and small animals.
+
+# Brave and fast
+[image: photos/mongoose-extra.jpg]
+A mongoose is very fast. It can even fight a snake!
+
+# Fun fact
+[image: photos/mongoose-fact.jpg]
+Some mongooses live in big family groups. They help each other look after the babies.
+
+# See you next time
+[image: photos/mongoose-bye.jpg]
+Goodbye, mongoose! See you next time, friends.

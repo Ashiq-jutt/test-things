@@ -1,0 +1,34 @@
+title: Meet the Rabbit
+format: horizontal
+theme: forest
+voice: af_bella
+rate: 150
+---
+
+# Meet the Rabbit
+[image: photos/rabbit-title.jpg]
+Hello friends! Today we will meet the rabbit. Rabbits are soft and quick.
+
+# What does it look like?
+[image: photos/rabbit-looks.jpg]
+A rabbit has long ears, soft fur, and a small fluffy tail.
+
+# Where does it live?
+[image: photos/rabbit-where.jpg]
+Wild rabbits live in fields and forests. They dig their homes under the ground.
+
+# What does it eat?
+[image: photos/rabbit-eat.jpg]
+Rabbits eat grass, leaves, and vegetables.
+
+# Hop, hop, hop
+[image: photos/rabbit-extra.jpg]
+Rabbits have strong back legs. They hop and jump very fast.
+
+# Fun fact
+[image: photos/rabbit-fact.jpg]
+A rabbit's teeth never stop growing. Can you hop like a rabbit?
+
+# See you next time
+[image: photos/rabbit-bye.jpg]
+Goodbye, rabbit! See you next time, friends.

@@ -1,0 +1,34 @@
+title: Meet the Gorilla
+format: horizontal
+theme: forest
+voice: af_bella
+rate: 150
+---
+
+# Meet the Gorilla
+[image: photos/gorilla-title.jpg]
+Hello friends! Today we will meet the gorilla. Gorillas are big, strong, and gentle.
+
+# What does it look like?
+[image: photos/gorilla-looks.jpg]
+A gorilla has black fur, long arms, and a big chest.
+
+# Where does it live?
+[image: photos/gorilla-where.jpg]
+Gorillas live in the forests of Africa.
+
+# What does it eat?
+[image: photos/gorilla-eat.jpg]
+Gorillas eat leaves, stems, and fruit.
+
+# Gorilla family
+[image: photos/gorilla-extra.jpg]
+Gorillas live in a family group. The leader is a big daddy gorilla called a silverback.
+
+# Fun fact
+[image: photos/gorilla-fact.jpg]
+Gorillas make a new bed of leaves every night. Can you beat your chest like a gorilla?
+
+# See you next time
+[image: photos/gorilla-bye.jpg]
+Goodbye, gorilla! See you next time, friends.

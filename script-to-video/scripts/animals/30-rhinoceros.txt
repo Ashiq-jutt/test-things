@@ -1,0 +1,34 @@
+title: Meet the Rhinoceros
+format: horizontal
+theme: sunset
+voice: af_bella
+rate: 150
+---
+
+# Meet the Rhinoceros
+[image: photos/rhinoceros-title.jpg]
+Hello friends! Today we will meet the rhinoceros. We can also call it a rhino.
+
+# What does it look like?
+[image: photos/rhinoceros-looks.jpg]
+A rhino has a big body, thick gray skin, and a horn on its nose.
+
+# Where does it live?
+[image: photos/rhinoceros-where.jpg]
+Rhinos live in Africa and Asia. They live in grasslands and forests.
+
+# What does it eat?
+[image: photos/rhinoceros-eat.jpg]
+Rhinos eat grass, leaves, and fruit.
+
+# Mud bath
+[image: photos/rhinoceros-extra.jpg]
+Rhinos love to roll in the mud. The mud keeps their skin cool and safe from the sun.
+
+# Fun fact
+[image: photos/rhinoceros-fact.jpg]
+A rhino's horn is made of the same thing as your fingernails!
+
+# See you next time
+[image: photos/rhinoceros-bye.jpg]
+Goodbye, rhinoceros! See you next time, friends.

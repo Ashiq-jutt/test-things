@@ -1,0 +1,34 @@
+title: Meet the Gazelle
+format: horizontal
+theme: sunset
+voice: af_bella
+rate: 150
+---
+
+# Meet the Gazelle
+[image: photos/gazelle-title.jpg]
+Hello friends! Today we will meet the gazelle. Gazelles are fast and graceful.
+
+# What does it look like?
+[image: photos/gazelle-looks.jpg]
+A gazelle has a light brown body, a white tummy, and long thin legs. It has two horns.
+
+# Where does it live?
+[image: photos/gazelle-where.jpg]
+Gazelles live in the grasslands and deserts of Africa and Asia.
+
+# What does it eat?
+[image: photos/gazelle-eat.jpg]
+Gazelles eat grass, leaves, and small plants.
+
+# Run and jump
+[image: photos/gazelle-extra.jpg]
+Gazelles run very fast. They also jump high into the air with all four feet!
+
+# Fun fact
+[image: photos/gazelle-fact.jpg]
+Gazelles live in a herd. Many eyes help to watch for danger.
+
+# See you next time
+[image: photos/gazelle-bye.jpg]
+Goodbye, gazelle! See you next time, friends.

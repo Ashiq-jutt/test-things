@@ -1,0 +1,34 @@
+title: Meet the Red Panda
+format: horizontal
+theme: forest
+voice: af_bella
+rate: 150
+---
+
+# Meet the Red Panda
+[image: photos/red-panda-title.jpg]
+Hello friends! Today we will meet the red panda. The red panda is small and fluffy.
+
+# What does it look like?
+[image: photos/red-panda-looks.jpg]
+A red panda has red fur, a white face, and a long tail with rings.
+
+# Where does it live?
+[image: photos/red-panda-where.jpg]
+Red pandas live in mountain forests in Asia. They live up in the trees.
+
+# What does it eat?
+[image: photos/red-panda-eat.jpg]
+Red pandas eat bamboo, fruit, and eggs.
+
+# A warm tail
+[image: photos/red-panda-extra.jpg]
+A red panda wraps its fluffy tail around its body. It works like a warm blanket.
+
+# Fun fact
+[image: photos/red-panda-fact.jpg]
+A red panda is about as big as a house cat. It sleeps in the day and wakes up in the evening.
+
+# See you next time
+[image: photos/red-panda-bye.jpg]
+Goodbye, red panda! See you next time, friends.

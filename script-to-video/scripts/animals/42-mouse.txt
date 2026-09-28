@@ -1,0 +1,34 @@
+title: Meet the Mouse
+format: horizontal
+theme: midnight
+voice: af_bella
+rate: 150
+---
+
+# Meet the Mouse
+[image: photos/mouse-title.jpg]
+Hello friends! Today we will meet the mouse. Mice are tiny and quick.
+
+# What does it look like?
+[image: photos/mouse-looks.jpg]
+A mouse has round ears, a pointy nose, and a long thin tail.
+
+# Where does it live?
+[image: photos/mouse-where.jpg]
+Mice live in fields, forests, and sometimes in houses.
+
+# What does it eat?
+[image: photos/mouse-eat.jpg]
+Mice eat seeds, grain, and fruit.
+
+# Little whiskers
+[image: photos/mouse-extra.jpg]
+A mouse has long whiskers. The whiskers help it feel its way in the dark.
+
+# Fun fact
+[image: photos/mouse-fact.jpg]
+A mouse's teeth never stop growing. What does a mouse say? Squeak squeak!
+
+# See you next time
+[image: photos/mouse-bye.jpg]
+Goodbye, mouse! See you next time, friends.

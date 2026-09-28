@@ -1,0 +1,34 @@
+title: Meet the Jaguar
+format: horizontal
+theme: forest
+voice: af_bella
+rate: 150
+---
+
+# Meet the Jaguar
+[image: photos/jaguar-title.jpg]
+Hello friends! Today we will meet the jaguar. The jaguar is the biggest cat in the Americas.
+
+# What does it look like?
+[image: photos/jaguar-looks.jpg]
+A jaguar has golden fur with black spots. Its spots look like little roses.
+
+# Where does it live?
+[image: photos/jaguar-where.jpg]
+Jaguars live in rainforests in Central and South America.
+
+# What does it eat?
+[image: photos/jaguar-eat.jpg]
+Jaguars eat meat. They hunt on land and in rivers.
+
+# Jaguars can swim
+[image: photos/jaguar-extra.jpg]
+Jaguars love water. They are very good swimmers.
+
+# Fun fact
+[image: photos/jaguar-fact.jpg]
+A jaguar has a very strong bite. It is one of the strongest of all the big cats.
+
+# See you next time
+[image: photos/jaguar-bye.jpg]
+Goodbye, jaguar! See you next time, friends.

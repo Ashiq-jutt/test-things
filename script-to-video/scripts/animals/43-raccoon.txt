@@ -1,0 +1,34 @@
+title: Meet the Raccoon
+format: horizontal
+theme: midnight
+voice: af_bella
+rate: 150
+---
+
+# Meet the Raccoon
+[image: photos/raccoon-title.jpg]
+Hello friends! Today we will meet the raccoon. Raccoons look like they are wearing a mask.
+
+# What does it look like?
+[image: photos/raccoon-looks.jpg]
+A raccoon has gray fur, a black mask around its eyes, and a tail with rings.
+
+# Where does it live?
+[image: photos/raccoon-where.jpg]
+Raccoons live in forests in North America. Some raccoons live near towns.
+
+# What does it eat?
+[image: photos/raccoon-eat.jpg]
+Raccoons eat fruit, nuts, insects, and eggs.
+
+# Clever hands
+[image: photos/raccoon-extra.jpg]
+Raccoons have clever little hands. They can open doors, jars, and boxes!
+
+# Fun fact
+[image: photos/raccoon-fact.jpg]
+Raccoons are awake at night. They are very good climbers.
+
+# See you next time
+[image: photos/raccoon-bye.jpg]
+Goodbye, raccoon! See you next time, friends.

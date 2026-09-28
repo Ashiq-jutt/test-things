@@ -1,0 +1,34 @@
+title: Meet the Camel
+format: horizontal
+theme: sunset
+voice: af_bella
+rate: 150
+---
+
+# Meet the Camel
+[image: photos/camel-title.jpg]
+Hello friends! Today we will meet the camel. People call the camel the ship of the desert.
+
+# What does it look like?
+[image: photos/camel-looks.jpg]
+A camel has long legs, a long neck, and a hump on its back. Some camels have two humps.
+
+# Where does it live?
+[image: photos/camel-where.jpg]
+Camels live in the desert. The desert is hot, dry, and full of sand.
+
+# What does it eat?
+[image: photos/camel-eat.jpg]
+Camels eat grass, leaves, and dry desert plants.
+
+# The hump
+[image: photos/camel-extra.jpg]
+A camel keeps fat in its hump. This helps the camel when there is no food.
+
+# Fun fact
+[image: photos/camel-fact.jpg]
+A camel can go many days without drinking water. It has long eyelashes to keep sand out of its eyes.
+
+# See you next time
+[image: photos/camel-bye.jpg]
+Goodbye, camel! See you next time, friends.

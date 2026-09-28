@@ -1,0 +1,34 @@
+title: Meet the Bison
+format: horizontal
+theme: sunset
+voice: af_bella
+rate: 150
+---
+
+# Meet the Bison
+[image: photos/bison-title.jpg]
+Hello friends! Today we will meet the bison. The bison is the biggest land animal in North America.
+
+# What does it look like?
+[image: photos/bison-looks.jpg]
+A bison has a huge head, a hump on its back, and thick brown fur.
+
+# Where does it live?
+[image: photos/bison-where.jpg]
+Bison live on the wide grasslands of North America.
+
+# What does it eat?
+[image: photos/bison-eat.jpg]
+Bison eat grass.
+
+# Warm in winter
+[image: photos/bison-extra.jpg]
+A bison has a thick coat. It keeps the bison warm in the cold snow.
+
+# Fun fact
+[image: photos/bison-fact.jpg]
+A bison is very big, but it can run very fast!
+
+# See you next time
+[image: photos/bison-bye.jpg]
+Goodbye, bison! See you next time, friends.

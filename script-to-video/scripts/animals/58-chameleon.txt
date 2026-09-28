@@ -1,0 +1,34 @@
+title: Meet the Chameleon
+format: horizontal
+theme: forest
+voice: af_bella
+rate: 150
+---
+
+# Meet the Chameleon
+[image: photos/chameleon-title.jpg]
+Hello friends! Today we will meet the chameleon. The chameleon is a lizard that can change color.
+
+# What does it look like?
+[image: photos/chameleon-looks.jpg]
+A chameleon has bumpy skin, a curly tail, and feet that hold on to branches.
+
+# Where does it live?
+[image: photos/chameleon-where.jpg]
+Many chameleons live in Africa and Madagascar. They live in trees and bushes.
+
+# What does it eat?
+[image: photos/chameleon-eat.jpg]
+Chameleons eat insects.
+
+# The fast tongue
+[image: photos/chameleon-extra.jpg]
+A chameleon has a very long, sticky tongue. It shoots out to catch insects in a flash!
+
+# Fun fact
+[image: photos/chameleon-fact.jpg]
+A chameleon can move its two eyes in different ways. One eye looks forward and one eye looks back!
+
+# See you next time
+[image: photos/chameleon-bye.jpg]
+Goodbye, chameleon! See you next time, friends.

@@ -1,318 +1,206 @@
 {
-  "lion-title.jpg": {
-    "title": "Free pride lion roaring, wildlife",
+  "alpaca-bye.jpg": {
+    "title": "A brown, fluffy Alpaca walking on green grass in front of a rocky backdrop.",
+    "creator": "emq11",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://wordpress.org/photos/photo/8676905290/"
+  },
+  "alpaca-eat.jpg": {
+    "title": "Alpacas",
+    "creator": "swallowedtail",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/126064386@N03/32965531163"
+  },
+  "alpaca-extra.jpg": {
+    "title": "Alpaca",
+    "creator": "lug-visual",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/150813543@N08/36780480390"
+  },
+  "alpaca-fact.jpg": {
+    "title": "Several alpacas grazing hillside Peru",
     "creator": null,
     "license": "CC0 1.0",
     "creditRequired": false,
-    "page": "https://www.rawpixel.com/image/5922314/photo-image-face-public-domain-nature"
+    "page": "https://www.rawpixel.com/image/3287479/free-photo-image-alpaca-animal-bear"
   },
-  "lion-looks.jpg": {
-    "title": "Lion roaring.",
-    "creator": "Michelle Frechette",
-    "license": "CC0 1.0",
-    "creditRequired": false,
-    "page": "https://wordpress.org/photos/photo/42061b26a7/"
-  },
-  "lion-where.jpg": {
-    "title": "Lioness-Kenya",
-    "creator": "chachasarra",
+  "alpaca-looks.jpg": {
+    "title": "Depth of field",
+    "creator": "Alan Kyker",
     "license": "PDM 1.0",
     "creditRequired": false,
-    "page": "https://www.flickr.com/photos/82995800@N06/49503932342"
+    "page": "https://www.flickr.com/photos/188479097@N07/50239286406"
   },
-  "lion-eat.jpg": {
-    "title": "Lioness",
-    "creator": "spongebabyalwaysfull",
-    "license": "CC0 1.0",
-    "creditRequired": false,
-    "page": "https://www.flickr.com/photos/73080909@N03/9695797337"
-  },
-  "lion-fact.jpg": {
-    "title": "lion sleeping",
-    "creator": "izaleathem",
-    "license": "CC0 1.0",
-    "creditRequired": false,
-    "page": "https://www.flickr.com/photos/153286307@N06/32809790983"
-  },
-  "lion-bye.jpg": {
-    "title": "Zoo Atlanta Lion Cub",
-    "creator": "StephenGA",
-    "license": "CC0 1.0",
-    "creditRequired": false,
-    "page": "https://www.flickr.com/photos/97839409@N00/14234340935"
-  },
-  "lion-extra.jpg": {
-    "title": "Lion",
-    "creator": "Mathias Appel",
-    "license": "CC0 1.0",
-    "creditRequired": false,
-    "page": "https://www.flickr.com/photos/91501748@N07/51648555325"
-  },
-  "elephant-title.jpg": {
-    "title": "African elephant infant",
-    "creator": "USFWS Headquarters",
+  "alpaca-title.jpg": {
+    "title": "Alpaca, Whitby, North Yorkshire",
+    "creator": "barry.marsh1944",
     "license": "PDM 1.0",
     "creditRequired": false,
-    "page": "https://www.flickr.com/photos/50838842@N06/6987533809"
+    "page": "https://www.flickr.com/photos/126409951@N04/15104781172"
   },
-  "elephant-looks.jpg": {
-    "title": "African elephant bull",
-    "creator": "USFWS Headquarters",
-    "license": "PDM 1.0",
-    "creditRequired": false,
-    "page": "https://www.flickr.com/photos/50838842@N06/6987533681"
-  },
-  "elephant-where.jpg": {
-    "title": "Free African elephant herd image",
+  "alpaca-where.jpg": {
+    "title": "Alpacas graze grassy field Peru",
     "creator": null,
     "license": "CC0 1.0",
     "creditRequired": false,
-    "page": "https://www.rawpixel.com/image/5914145/photo-image-public-domain-nature-family"
+    "page": "https://www.rawpixel.com/image/3296439/free-photo-image-sheep-ranch-animal"
   },
-  "elephant-eat.jpg": {
-    "title": "Elephant eating, wildlife image",
+  "anteater-bye.jpg": {
+    "title": "giant anteater",
+    "creator": "Diego Car\u00fas",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/34578109"
+  },
+  "anteater-eat.jpg": {
+    "title": "giant anteater",
+    "creator": "Fernando Sessegolo",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/203933788"
+  },
+  "anteater-extra.jpg": {
+    "title": "giant anteater",
+    "creator": "Hugo Hulsberg",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/97818708"
+  },
+  "anteater-fact.jpg": {
+    "title": "Giant Anteater (2011) Mehgan Murphy",
     "creator": null,
     "license": "CC0 1.0",
     "creditRequired": false,
-    "page": "https://www.rawpixel.com/image/6025274/photo-image-public-domain-nature-free"
+    "page": "https://www.rawpixel.com/image/3060040/free-photo-image-bear-zoo-ant-animal"
   },
-  "elephant-extra.jpg": {
-    "title": "Happy baby elephant in a pond showering himself water from his trunk.",
-    "creator": "Saurabh Mention",
+  "anteater-looks.jpg": {
+    "title": "giant anteater",
+    "creator": "Hugo Hulsberg",
     "license": "CC0 1.0",
     "creditRequired": false,
-    "page": "https://wordpress.org/photos/photo/58364dde1a/"
+    "page": "https://www.inaturalist.org/photos/231125677"
   },
-  "elephant-fact.jpg": {
-    "title": "African elephant herd teh serengeti",
-    "creator": null,
+  "anteater-title.jpg": {
+    "title": "giant anteater",
+    "creator": "Hugo Hulsberg",
     "license": "CC0 1.0",
     "creditRequired": false,
-    "page": "https://www.rawpixel.com/image/6043399/photo-image-public-domain-nature-family"
+    "page": "https://www.inaturalist.org/photos/231125474"
   },
-  "elephant-bye.jpg": {
-    "title": "Elephants Herd",
-    "creator": "World Travel Adventures",
+  "anteater-where.jpg": {
+    "title": "giant anteater",
+    "creator": "Whaldener Endo",
     "license": "CC0 1.0",
     "creditRequired": false,
-    "page": "https://stocksnap.io/photo/elephants-herd-FXHPHAWNRX"
+    "page": "https://www.inaturalist.org/photos/398920969"
   },
-  "tiger-title.jpg": {
-    "title": "Royal Bengal Tiger",
-    "creator": "Ram' s Foto",
+  "armadillo-bye.jpg": {
+    "title": "Nine-banded Armadillo",
+    "creator": "LandBetweentheLakesKYTN",
     "license": "PDM 1.0",
     "creditRequired": false,
-    "page": "https://www.flickr.com/photos/137615314@N06/22175525223"
+    "page": "https://www.flickr.com/photos/82242140@N05/19756007410"
   },
-  "tiger-looks.jpg": {
-    "title": "Sumatran Tiger.",
-    "creator": "Bernard Spragg",
+  "armadillo-eat.jpg": {
+    "title": "armadillo nueve bandas, long-nosed armadillo, nine-banded armadillo",
+    "creator": "aiwendil",
     "license": "CC0 1.0",
     "creditRequired": false,
-    "page": "https://www.flickr.com/photos/88123769@N02/14342594774"
+    "page": "https://www.inaturalist.org/photos/254819121"
   },
-  "tiger-where.jpg": {
-    "title": "Tiger Forest Fota",
-    "creator": "Sean Truscott photography",
-    "license": "PDM 1.0",
-    "creditRequired": false,
-    "page": "https://www.flickr.com/photos/143819857@N06/35222264924"
-  },
-  "tiger-eat.jpg": {
-    "title": "Tiger Forest Fota",
-    "creator": "Sean Truscott photography",
-    "license": "PDM 1.0",
-    "creditRequired": false,
-    "page": "https://www.flickr.com/photos/143819857@N06/36020965496"
-  },
-  "tiger-fact.jpg": {
-    "title": "Close shot tiger face",
+  "armadillo-extra.jpg": {
+    "title": "La Plata Three-banded Armadillo (2011)",
     "creator": null,
     "license": "CC0 1.0",
     "creditRequired": false,
-    "page": "https://www.rawpixel.com/image/3372267/free-photo-image-tiger-animal-creative"
+    "page": "https://www.rawpixel.com/image/3060051/free-photo-image-beautiful-armadillo-old-photos"
   },
-  "tiger-bye.jpg": {
-    "title": "Tiger seekings",
-    "creator": "Wallboat",
+  "armadillo-fact.jpg": {
+    "title": "armadillo nueve bandas, long-nosed armadillo, nine-banded armadillo",
+    "creator": "kcthetc1",
     "license": "CC0 1.0",
     "creditRequired": false,
-    "page": "https://www.flickr.com/photos/151415985@N06/37308214956"
+    "page": "https://www.inaturalist.org/photos/410604148"
   },
-  "tiger-extra.jpg": {
-    "title": "tiger water",
+  "armadillo-looks.jpg": {
+    "title": "armadillo nueve bandas, long-nosed armadillo, nine-banded armadillo",
+    "creator": "Henggang Cui",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/57205722"
+  },
+  "armadillo-title.jpg": {
+    "title": "La Plata Three-banded Armadillo (2006)",
     "creator": null,
     "license": "CC0 1.0",
     "creditRequired": false,
-    "page": "https://www.rawpixel.com/image/3337603/free-photo-image-tiger-animal"
+    "page": "https://www.rawpixel.com/image/3060879/free-photo-image-armadillo-amazing-animal"
   },
-  "monkey-title.jpg": {
-    "title": "Macaque Monkey",
-    "creator": "Bernard Spragg",
+  "armadillo-where.jpg": {
+    "title": "armadillo nueve bandas, long-nosed armadillo, nine-banded armadillo",
+    "creator": "Christine Braaten",
     "license": "CC0 1.0",
     "creditRequired": false,
-    "page": "https://www.flickr.com/photos/88123769@N02/16787053847"
+    "page": "https://www.inaturalist.org/photos/133697521"
   },
-  "monkey-looks.jpg": {
-    "title": "Howler Monkey",
-    "creator": "Terry Kearney",
+  "bat-bye.jpg": {
+    "title": "Jerusalem Zoo Fruit Bat",
+    "creator": "Gary Lee Todd, Ph.D.",
     "license": "CC0 1.0",
     "creditRequired": false,
-    "page": "https://www.flickr.com/photos/24490288@N04/26676947849"
+    "page": "https://www.flickr.com/photos/101561334@N08/29368455878"
   },
-  "monkey-where.jpg": {
-    "title": "Free curious squirrel monkey tree",
-    "creator": null,
+  "bat-eat.jpg": {
+    "title": "Epomophorus",
+    "creator": "Andrew Deacon",
     "license": "CC0 1.0",
     "creditRequired": false,
-    "page": "https://www.rawpixel.com/image/5925592/photo-image-background-public-domain-tree"
+    "page": "https://www.inaturalist.org/photos/337089796"
   },
-  "monkey-eat.jpg": {
-    "title": "Sai Yok Monkey",
-    "creator": "Raini4",
+  "bat-extra.jpg": {
+    "title": "Fruit Bats [4280075]",
+    "creator": "Stickarm",
     "license": "PDM 1.0",
     "creditRequired": false,
-    "page": "https://www.flickr.com/photos/53106173@N05/5356946672"
+    "page": "https://www.flickr.com/photos/8548767@N02/14074672035"
   },
-  "monkey-fact.jpg": {
-    "title": "Squirrel Monkeys",
-    "creator": "soleqtravel",
+  "bat-fact.jpg": {
+    "title": "flying foxes, megabats, non-echolocating bats, old world fruit bats",
+    "creator": "neotrigonia",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/331326368"
+  },
+  "bat-looks.jpg": {
+    "title": "California leaf-nosed bat (Macrotus californicus)",
+    "creator": "Joshua Tree National Park",
     "license": "PDM 1.0",
     "creditRequired": false,
-    "page": "https://www.flickr.com/photos/145873402@N07/29799831553"
+    "page": "https://www.flickr.com/photos/115357548@N08/14230017952"
   },
-  "monkey-bye.jpg": {
-    "title": "a monkey in Ubud, Bali, Indonesia",
-    "creator": "keulefm3",
-    "license": "CC0 1.0",
-    "creditRequired": false,
-    "page": "https://www.flickr.com/photos/138091867@N03/24682362526"
-  },
-  "monkey-extra.jpg": {
-    "title": "Monkey family. Monkeys sitting on a wall holding with a faded view of the valley behind.",
-    "creator": "Ankit K Gupta",
-    "license": "CC0 1.0",
-    "creditRequired": false,
-    "page": "https://wordpress.org/photos/photo/67865c506c/"
-  },
-  "giraffe-title.jpg": {
-    "title": "First Lady Melania Trump's Visit to Africa",
-    "creator": "The White House",
+  "bat-title.jpg": {
+    "title": "20150619-OSEC-LSC-0422",
+    "creator": "USDAgov",
     "license": "PDM 1.0",
     "creditRequired": false,
-    "page": "https://www.flickr.com/photos/148748355@N05/43309132930"
+    "page": "https://www.flickr.com/photos/41284017@N08/18852932290"
   },
-  "giraffe-looks.jpg": {
-    "title": "Giraffe",
-    "creator": "earthisthering",
-    "license": "CC0 1.0",
-    "creditRequired": false,
-    "page": "https://www.flickr.com/photos/55958070@N08/5756127053"
-  },
-  "giraffe-where.jpg": {
-    "title": "FOUND: Africa",
-    "creator": "~filth~filler~",
+  "bat-where.jpg": {
+    "title": "Healthy Virginia big-eared bats",
+    "creator": "U. S. Fish and Wildlife Service - Northeast Region",
     "license": "PDM 1.0",
     "creditRequired": false,
-    "page": "https://www.flickr.com/photos/48625250@N00/19759266073"
+    "page": "https://www.flickr.com/photos/43322816@N08/4387622479"
   },
-  "giraffe-eat.jpg": {
-    "title": "Giraffe eating leaves",
-    "creator": null,
-    "license": "CC0 1.0",
-    "creditRequired": false,
-    "page": "https://www.rawpixel.com/image/3286772/free-photo-image-animal-brown-background-cc0"
-  },
-  "giraffe-extra.jpg": {
-    "title": "Rothschild's giraffe",
-    "creator": "Mathias Appel",
-    "license": "CC0 1.0",
-    "creditRequired": false,
-    "page": "https://www.flickr.com/photos/91501748@N07/18170000829"
-  },
-  "giraffe-fact.jpg": {
-    "title": "One adult one baby giraffe",
-    "creator": null,
-    "license": "CC0 1.0",
-    "creditRequired": false,
-    "page": "https://www.rawpixel.com/image/3305667/free-photo-image-animals-kids-game-animal"
-  },
-  "giraffe-bye.jpg": {
-    "title": "Giraffe portrait.",
-    "creator": "Bernard Spragg",
-    "license": "CC0 1.0",
-    "creditRequired": false,
-    "page": "https://www.flickr.com/photos/88123769@N02/10622766983"
-  },
-  "zebra-title.jpg": {
-    "title": "Zebra",
-    "creator": "Mussi Katz",
-    "license": "CC0 1.0",
-    "creditRequired": false,
-    "page": "https://www.flickr.com/photos/52775988@N00/24694097565"
-  },
-  "zebra-looks.jpg": {
-    "title": "Zebra Stripes",
-    "creator": "Elijah Henderson",
-    "license": "CC0 1.0",
-    "creditRequired": false,
-    "page": "https://stocksnap.io/photo/zebra-stripes-EME7PRTQGQ"
-  },
-  "zebra-where.jpg": {
-    "title": "Zebra-Kenya",
-    "creator": "chachasarra",
+  "bear-bye.jpg": {
+    "title": "Not liking the bear fishing below...",
+    "creator": "Lisa Hupp",
     "license": "PDM 1.0",
     "creditRequired": false,
-    "page": "https://www.flickr.com/photos/82995800@N06/49429532133"
-  },
-  "zebra-eat.jpg": {
-    "title": "large zebra grazing dry grass",
-    "creator": null,
-    "license": "CC0 1.0",
-    "creditRequired": false,
-    "page": "https://www.rawpixel.com/image/3294803/free-photo-image-zebra-africa-animal"
-  },
-  "zebra-extra.jpg": {
-    "title": "Free zebra grazing image",
-    "creator": null,
-    "license": "CC0 1.0",
-    "creditRequired": false,
-    "page": "https://www.rawpixel.com/image/5917633/photo-image-background-public-domain-nature"
-  },
-  "zebra-fact.jpg": {
-    "title": "Zebra Stripes",
-    "creator": null,
-    "license": "CC0 1.0",
-    "creditRequired": false,
-    "page": "https://www.rawpixel.com/image/5969560/zebra-stripes"
-  },
-  "zebra-bye.jpg": {
-    "title": "Zebra",
-    "creator": "Mussi Katz",
-    "license": "CC0 1.0",
-    "creditRequired": false,
-    "page": "https://www.flickr.com/photos/52775988@N00/24694097565"
-  },
-  "bear-title.jpg": {
-    "title": "Kodiak brown bear",
-    "creator": "USFWSAlaska",
-    "license": "PDM 1.0",
-    "creditRequired": false,
-    "page": "https://www.flickr.com/photos/54775250@N07/23772900186"
-  },
-  "bear-looks.jpg": {
-    "title": "Kodiak Brown Bear Sow",
-    "creator": "USFWSAlaska",
-    "license": "PDM 1.0",
-    "creditRequired": false,
-    "page": "https://www.flickr.com/photos/54775250@N07/28482695320"
-  },
-  "bear-where.jpg": {
-    "title": "Free bear forest portrait photo",
-    "creator": null,
-    "license": "CC0 1.0",
-    "creditRequired": false,
-    "page": "https://www.rawpixel.com/image/5906010/photo-image-public-domain-tree-forest"
+    "page": "https://www.flickr.com/photos/38441488@N08/28095809314"
   },
   "bear-eat.jpg": {
     "title": "Brown bear fishing in a river",
@@ -335,131 +223,180 @@
     "creditRequired": false,
     "page": "https://www.rawpixel.com/image/5966893/tired-large-bear-forest-log"
   },
-  "bear-bye.jpg": {
-    "title": "Not liking the bear fishing below...",
-    "creator": "Lisa Hupp",
+  "bear-looks.jpg": {
+    "title": "Kodiak Brown Bear Sow",
+    "creator": "USFWSAlaska",
     "license": "PDM 1.0",
     "creditRequired": false,
-    "page": "https://www.flickr.com/photos/38441488@N08/28095809314"
+    "page": "https://www.flickr.com/photos/54775250@N07/28482695320"
   },
-  "cow-title.jpg": {
-    "title": "Cows",
-    "creator": "boklm",
+  "bear-title.jpg": {
+    "title": "Kodiak brown bear",
+    "creator": "USFWSAlaska",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/54775250@N07/23772900186"
+  },
+  "bear-where.jpg": {
+    "title": "Free bear forest portrait photo",
+    "creator": null,
     "license": "CC0 1.0",
     "creditRequired": false,
-    "page": "https://www.flickr.com/photos/85825630@N00/4813130909"
+    "page": "https://www.rawpixel.com/image/5906010/photo-image-public-domain-tree-forest"
   },
-  "cow-looks.jpg": {
-    "title": "Cows Field",
+  "bison-bye.jpg": {
+    "title": "Bison cow and calf in the road at Mammoth Hot Springs",
+    "creator": "YellowstoneNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/80223459@N05/34502055060"
+  },
+  "bison-eat.jpg": {
+    "title": "Bull bison graze along an ephemeral pool in Lamar Valley",
+    "creator": "YellowstoneNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/80223459@N05/28113237148"
+  },
+  "bison-extra.jpg": {
+    "title": "A bull bison with a snow-covered face (2)",
+    "creator": "YellowstoneNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/80223459@N05/52564280688"
+  },
+  "bison-fact.jpg": {
+    "title": "Bull bison make their way through deep snow",
+    "creator": "YellowstoneNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/80223459@N05/46368509085"
+  },
+  "bison-looks.jpg": {
+    "title": "Bison rut, Lamar Valley",
+    "creator": "YellowstoneNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/80223459@N05/36729196776"
+  },
+  "bison-title.jpg": {
+    "title": "Bison, Blacktail Deer Plateau",
+    "creator": "YellowstoneNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/80223459@N05/36526563150"
+  },
+  "bison-where.jpg": {
+    "title": "Conserving the North American bison",
+    "creator": "U.S. Geological Survey",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/27784370@N05/14903390956"
+  },
+  "buffalo-bye.jpg": {
+    "title": "Syncerus caffer caffer",
+    "creator": "Adam Kranz",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/42979863"
+  },
+  "buffalo-eat.jpg": {
+    "title": "Syncerus caffer caffer",
+    "creator": "Peter Warren",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/15272546"
+  },
+  "buffalo-extra.jpg": {
+    "title": "african buffalo, cape buffalo",
+    "creator": "Diego Car\u00fas",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/30025582"
+  },
+  "buffalo-fact.jpg": {
+    "title": "Water buffalo.",
     "creator": "Bernard Spragg",
     "license": "CC0 1.0",
     "creditRequired": false,
-    "page": "https://stocksnap.io/photo/cows-field-BOAF6VEUMD"
+    "page": "https://www.flickr.com/photos/88123769@N02/9391143988"
   },
-  "cow-where.jpg": {
-    "title": "Free spotted cow eating grass",
+  "buffalo-looks.jpg": {
+    "title": "african buffalo, cape buffalo",
+    "creator": "Richard Fuller",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/11884052"
+  },
+  "buffalo-title.jpg": {
+    "title": "Free African buffalo image",
     "creator": null,
     "license": "CC0 1.0",
     "creditRequired": false,
-    "page": "https://www.rawpixel.com/image/5921201/photo-image-background-public-domain-green"
+    "page": "https://www.rawpixel.com/image/5927420/photo-image-background-public-domain-free"
   },
-  "cow-eat.jpg": {
-    "title": "Free young cow eating grass",
+  "buffalo-where.jpg": {
+    "title": "Syncerus caffer caffer",
+    "creator": "Erwin Sieben",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/385529074"
+  },
+  "camel-bye.jpg": {
+    "title": "Camel desert",
     "creator": null,
     "license": "CC0 1.0",
     "creditRequired": false,
-    "page": "https://www.rawpixel.com/image/5903523/photo-image-background-public-domain-green"
+    "page": "https://www.rawpixel.com/image/6040442/camel-desert-free-public-domain-cc0-photo"
   },
-  "cow-extra.jpg": {
-    "title": "Two Glasses of Milk",
-    "creator": "Alabama Extension",
-    "license": "CC0 1.0",
-    "creditRequired": false,
-    "page": "https://www.flickr.com/photos/184594136@N08/52633675771"
-  },
-  "cow-fact.jpg": {
-    "title": "Cows and calf",
-    "creator": "swallowedtail",
-    "license": "CC0 1.0",
-    "creditRequired": false,
-    "page": "https://www.flickr.com/photos/126064386@N03/20361737424"
-  },
-  "cow-bye.jpg": {
-    "title": "Free cows eating grass image",
-    "creator": null,
-    "license": "CC0 1.0",
-    "creditRequired": false,
-    "page": "https://www.rawpixel.com/image/5923839/photo-image-background-public-domain-green"
-  },
-  "dog-title.jpg": {
-    "title": "Happy Dog Max",
-    "creator": "moonjazz",
+  "camel-eat.jpg": {
+    "title": "Sunning Camel-Mongolia (in explore)",
+    "creator": "chachasarra",
     "license": "PDM 1.0",
     "creditRequired": false,
-    "page": "https://www.flickr.com/photos/8398907@N02/15699412737"
+    "page": "https://www.flickr.com/photos/82995800@N06/50709999917"
   },
-  "dog-looks.jpg": {
-    "title": "my dogs",
-    "creator": "Andrea Pelizzaro - my amateur pics",
+  "camel-extra.jpg": {
+    "title": "dromedary, one-humped camel",
+    "creator": "Tobias Demetz",
     "license": "CC0 1.0",
     "creditRequired": false,
-    "page": "https://www.flickr.com/photos/160949630@N04/44980956602"
+    "page": "https://www.inaturalist.org/photos/22450222"
   },
-  "dog-where.jpg": {
-    "title": "lisa-the-dog",
-    "creator": "roman.schurte",
-    "license": "CC0 1.0",
-    "creditRequired": false,
-    "page": "https://www.flickr.com/photos/131705628@N06/16120825474"
-  },
-  "dog-eat.jpg": {
-    "title": "Dog playing in water 1",
-    "creator": "D Coetzee",
-    "license": "CC0 1.0",
-    "creditRequired": false,
-    "page": "https://www.flickr.com/photos/29507259@N02/3618935524"
-  },
-  "dog-extra.jpg": {
-    "title": "Vilia Auto - Guide Dog",
-    "creator": "Kojotisko",
-    "license": "CC0 1.0",
-    "creditRequired": false,
-    "page": "https://www.flickr.com/photos/98796230@N03/14655400136"
-  },
-  "dog-fact.jpg": {
-    "title": "Free close dog's nose image",
+  "camel-fact.jpg": {
+    "title": "Camel desert",
     "creator": null,
     "license": "CC0 1.0",
     "creditRequired": false,
-    "page": "https://www.rawpixel.com/image/5901344/photo-image-background-public-domain-dog"
+    "page": "https://www.rawpixel.com/image/6040166/camel-desert-free-public-domain-cc0-photo"
   },
-  "dog-bye.jpg": {
-    "title": "Cute white puppy",
-    "creator": "Wallboat",
+  "camel-looks.jpg": {
+    "title": "Camel",
+    "creator": "Brendaurus",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/135565977@N04/23735203010"
+  },
+  "camel-title.jpg": {
+    "title": "Portrait camel desert Tozeur",
+    "creator": null,
     "license": "CC0 1.0",
     "creditRequired": false,
-    "page": "https://www.flickr.com/photos/151415985@N06/23503731148"
+    "page": "https://www.rawpixel.com/image/3296922/free-photo-image-camel-animal-lion"
   },
-  "cat-title.jpg": {
-    "title": "Cat",
-    "creator": "Burnt Pineapple Productions",
+  "camel-where.jpg": {
+    "title": "Camels Desert",
+    "creator": "Jos%E9%20Mart%EDn",
     "license": "CC0 1.0",
     "creditRequired": false,
-    "page": "https://www.flickr.com/photos/51686021@N07/42700002412"
+    "page": "https://stocksnap.io/photo/camels-desert-5C05B478CB"
   },
-  "cat-looks.jpg": {
-    "title": "Cat Eyes",
-    "creator": "Kaptured by Kala",
+  "cat-bye.jpg": {
+    "title": "Three innocent kittens",
+    "creator": "iDapinder",
     "license": "CC0 1.0",
     "creditRequired": false,
-    "page": "https://www.flickr.com/photos/100108154@N02/28193989159"
-  },
-  "cat-where.jpg": {
-    "title": "Should I Stay or Should I go?!!! - Cat Arthur - DSCN6822",
-    "creator": "iezalel7williams",
-    "license": "CC0 1.0",
-    "creditRequired": false,
-    "page": "https://www.flickr.com/photos/181765699@N08/51566875862"
+    "page": "https://www.flickr.com/photos/38709274@N02/14582884739"
   },
   "cat-eat.jpg": {
     "title": "Three kittens eating (1)",
@@ -482,11 +419,2524 @@
     "creditRequired": false,
     "page": "https://www.flickr.com/photos/140325887@N04/25537304817"
   },
-  "cat-bye.jpg": {
-    "title": "Three innocent kittens",
-    "creator": "iDapinder",
+  "cat-looks.jpg": {
+    "title": "Cat Eyes",
+    "creator": "Kaptured by Kala",
     "license": "CC0 1.0",
     "creditRequired": false,
-    "page": "https://www.flickr.com/photos/38709274@N02/14582884739"
+    "page": "https://www.flickr.com/photos/100108154@N02/28193989159"
+  },
+  "cat-title.jpg": {
+    "title": "Cat",
+    "creator": "Burnt Pineapple Productions",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/51686021@N07/42700002412"
+  },
+  "cat-where.jpg": {
+    "title": "Should I Stay or Should I go?!!! - Cat Arthur - DSCN6822",
+    "creator": "iezalel7williams",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/181765699@N08/51566875862"
+  },
+  "chameleon-bye.jpg": {
+    "title": "Colorful Chameleon on Black Background",
+    "creator": "Image Catalog",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/132795455@N08/20922967472"
+  },
+  "chameleon-eat.jpg": {
+    "title": "Jackson's chameleon (Trioceros jacksonii): Feral, adult female in Manoa valley",
+    "creator": "Plant pests and diseases",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/62295966@N07/27998847223"
+  },
+  "chameleon-extra.jpg": {
+    "title": "panther-chameleon-reptile-image-1920x1080_55984-mm-90",
+    "creator": "GregS1972",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/195382194@N04/51992247927"
+  },
+  "chameleon-fact.jpg": {
+    "title": "Free chameleon eye image",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5925019/photo-image-public-domain-art-green"
+  },
+  "chameleon-looks.jpg": {
+    "title": "Lizard Reptile",
+    "creator": "Claudel Rheault",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://stocksnap.io/photo/lizard-reptile-KIG7P2UWGE"
+  },
+  "chameleon-title.jpg": {
+    "title": "Veiled chameleon (Chamaeleo calyptratus)",
+    "creator": "Vladislav Litvinov",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/59724445@N07/8602578150"
+  },
+  "chameleon-where.jpg": {
+    "title": "01chameleon-12oct",
+    "creator": "arun_pp",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/119834674@N07/15512587206"
+  },
+  "cheetah-bye.jpg": {
+    "title": "Cheetah cub",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/19314711699"
+  },
+  "cheetah-eat.jpg": {
+    "title": "Cheetah",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/21594483626"
+  },
+  "cheetah-extra.jpg": {
+    "title": "433571",
+    "creator": "GregS1972",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/195382194@N04/52036275344"
+  },
+  "cheetah-fact.jpg": {
+    "title": "Cheetah's face closeup",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/6026421/photo-image-face-public-domain-nature"
+  },
+  "cheetah-looks.jpg": {
+    "title": "Acinonyx jubatus jubatus",
+    "creator": "walruswatermelon",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/399542206"
+  },
+  "cheetah-title.jpg": {
+    "title": "Cheetah's face closeup",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/6021106/photo-image-public-domain-nature-tiger"
+  },
+  "cheetah-where.jpg": {
+    "title": "2016_01_08_KenyaLive_Day_#02_MORNING_JPEG_RESIZED_0015",
+    "creator": "makeitkenya",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/132740829@N02/23881524369"
+  },
+  "chimpanzee-bye.jpg": {
+    "title": "Chimpanzee monkey ape view",
+    "creator": "nityakchandra",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/143916257@N03/30166284475"
+  },
+  "chimpanzee-eat.jpg": {
+    "title": "A chimpanzee sitting on the grass holding a leaf at Zoo Miami.",
+    "creator": "David Chaves Delgado",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://wordpress.org/photos/photo/89769e4de0/"
+  },
+  "chimpanzee-extra.jpg": {
+    "title": "Baby Chimpanzee",
+    "creator": "Oneterry AKA Terry Kearney",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/24490288@N04/53200800950"
+  },
+  "chimpanzee-fact.jpg": {
+    "title": "Chimpanzee photo",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/6039903/chimpanzee-photo-free-public-domain-cc0-image"
+  },
+  "chimpanzee-looks.jpg": {
+    "title": "A chimpanzee with thick black fur sitting in a crouched position on a grassy field, looking directly forward .",
+    "creator": "Mutebi Ivan Junior",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://wordpress.org/photos/photo/9876a2118e/"
+  },
+  "chimpanzee-title.jpg": {
+    "title": "Chimpanzee photo",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/6021039/chimpanzee-photo-free-public-domain-cc0-image"
+  },
+  "chimpanzee-where.jpg": {
+    "title": "Free chimpanzee forest photo",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5914113/image-public-domain-green-black"
+  },
+  "cow-bye.jpg": {
+    "title": "Free cows eating grass image",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5923839/photo-image-background-public-domain-green"
+  },
+  "cow-eat.jpg": {
+    "title": "Free young cow eating grass",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5903523/photo-image-background-public-domain-green"
+  },
+  "cow-extra.jpg": {
+    "title": "Two Glasses of Milk",
+    "creator": "Alabama Extension",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/184594136@N08/52633675771"
+  },
+  "cow-fact.jpg": {
+    "title": "Cows and calf",
+    "creator": "swallowedtail",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/126064386@N03/20361737424"
+  },
+  "cow-looks.jpg": {
+    "title": "Cows Field",
+    "creator": "Bernard Spragg",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://stocksnap.io/photo/cows-field-BOAF6VEUMD"
+  },
+  "cow-title.jpg": {
+    "title": "Cows",
+    "creator": "boklm",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/85825630@N00/4813130909"
+  },
+  "cow-where.jpg": {
+    "title": "Free spotted cow eating grass",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5921201/photo-image-background-public-domain-green"
+  },
+  "deer-bye.jpg": {
+    "title": "White-tailed Deer- Buck in Velvet",
+    "creator": "ShenandoahNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/67015038@N06/30612149317"
+  },
+  "deer-eat.jpg": {
+    "title": "White-Tailed Deer Fawn",
+    "creator": "ShenandoahNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/67015038@N06/9600041554"
+  },
+  "deer-extra.jpg": {
+    "title": "White-tailed Deer Buck in Velvet",
+    "creator": "USFWS Mountain Prairie",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/51986662@N05/48804848532"
+  },
+  "deer-fact.jpg": {
+    "title": "Whitetail fawn",
+    "creator": "GlacierNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/43288043@N04/4498311640"
+  },
+  "deer-looks.jpg": {
+    "title": "White-tailed Deer- Buck",
+    "creator": "ShenandoahNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/67015038@N06/30612146567"
+  },
+  "deer-title.jpg": {
+    "title": "White-tailed Deer- Buck",
+    "creator": "ShenandoahNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/67015038@N06/30612141417"
+  },
+  "deer-where.jpg": {
+    "title": "Free deer forest photo",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5904903/photo-image-public-domain-tree-nature"
+  },
+  "dog-bye.jpg": {
+    "title": "Cute white puppy",
+    "creator": "Wallboat",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/151415985@N06/23503731148"
+  },
+  "dog-eat.jpg": {
+    "title": "Dog playing in water 1",
+    "creator": "D Coetzee",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/29507259@N02/3618935524"
+  },
+  "dog-extra.jpg": {
+    "title": "Vilia Auto - Guide Dog",
+    "creator": "Kojotisko",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/98796230@N03/14655400136"
+  },
+  "dog-fact.jpg": {
+    "title": "Free close dog's nose image",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5901344/photo-image-background-public-domain-dog"
+  },
+  "dog-looks.jpg": {
+    "title": "my dogs",
+    "creator": "Andrea Pelizzaro - my amateur pics",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/160949630@N04/44980956602"
+  },
+  "dog-title.jpg": {
+    "title": "Happy Dog Max",
+    "creator": "moonjazz",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/8398907@N02/15699412737"
+  },
+  "dog-where.jpg": {
+    "title": "lisa-the-dog",
+    "creator": "roman.schurte",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/131705628@N06/16120825474"
+  },
+  "donkey-bye.jpg": {
+    "title": "Donkey Eating",
+    "creator": "MyStockPhotos",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/136375272@N05/48967282006"
+  },
+  "donkey-eat.jpg": {
+    "title": "Free donkey grazing image",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5923219/photo-image-public-domain-plant-green"
+  },
+  "donkey-extra.jpg": {
+    "title": "De descanso",
+    "creator": "Carlos ZGZ",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/31810462@N07/15561686130"
+  },
+  "donkey-fact.jpg": {
+    "title": "Donkey eating my camera",
+    "creator": "JOHN K THORNE",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/89918055@N05/52207966382"
+  },
+  "donkey-looks.jpg": {
+    "title": "Spotted donkey grazing field",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/8812111/donkey"
+  },
+  "donkey-title.jpg": {
+    "title": "George The Donkey KENT LIFE",
+    "creator": "JOHN K THORNE",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/89918055@N05/52680795699"
+  },
+  "donkey-where.jpg": {
+    "title": "Donkey on a Farm",
+    "creator": "Image Catalog",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/132795455@N08/17308278186"
+  },
+  "elephant-bye.jpg": {
+    "title": "Elephants Herd",
+    "creator": "World Travel Adventures",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://stocksnap.io/photo/elephants-herd-FXHPHAWNRX"
+  },
+  "elephant-eat.jpg": {
+    "title": "Elephant eating, wildlife image",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/6025274/photo-image-public-domain-nature-free"
+  },
+  "elephant-extra.jpg": {
+    "title": "Happy baby elephant in a pond showering himself water from his trunk.",
+    "creator": "Saurabh Mention",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://wordpress.org/photos/photo/58364dde1a/"
+  },
+  "elephant-fact.jpg": {
+    "title": "African elephant herd teh serengeti",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/6043399/photo-image-public-domain-nature-family"
+  },
+  "elephant-looks.jpg": {
+    "title": "African elephant bull",
+    "creator": "USFWS Headquarters",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/50838842@N06/6987533681"
+  },
+  "elephant-title.jpg": {
+    "title": "African elephant infant",
+    "creator": "USFWS Headquarters",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/50838842@N06/6987533809"
+  },
+  "elephant-where.jpg": {
+    "title": "Free African elephant herd image",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5914145/photo-image-public-domain-nature-family"
+  },
+  "fox-bye.jpg": {
+    "title": "Red Fox Kit",
+    "creator": "U. S. Fish and Wildlife Service - Northeast Region",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/43322816@N08/50251204658"
+  },
+  "fox-eat.jpg": {
+    "title": "Fox cub",
+    "creator": "jlcampbell104",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/104346167@N06/18685257789"
+  },
+  "fox-extra.jpg": {
+    "title": "Fox pups",
+    "creator": "YellowstoneNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/80223459@N05/18654448490"
+  },
+  "fox-fact.jpg": {
+    "title": "Red fox hunting near Mud Volcano",
+    "creator": "YellowstoneNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/80223459@N05/26037387548"
+  },
+  "fox-looks.jpg": {
+    "title": "Free fox snow image",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5921689/photo-image-background-public-domain-nature"
+  },
+  "fox-title.jpg": {
+    "title": "Red fox in the rain",
+    "creator": "USFWSAlaska",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/54775250@N07/51357237877"
+  },
+  "fox-where.jpg": {
+    "title": "Red Fox Cub",
+    "creator": "richardfrost1988",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/202726441@N06/55330367246"
+  },
+  "gazelle-bye.jpg": {
+    "title": "dorcas gazelle",
+    "creator": "Justin Philbois",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/290501718"
+  },
+  "gazelle-eat.jpg": {
+    "title": "thomson's gazelle",
+    "creator": "Adam Kranz",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/43010964"
+  },
+  "gazelle-extra.jpg": {
+    "title": "2015_06_13_Ol_Kinyei_Maasai_Mara_JPEG_RESIZED_SELECTION_0005",
+    "creator": "makeitkenya",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/132740829@N02/20303497113"
+  },
+  "gazelle-fact.jpg": {
+    "title": "thomson's gazelle",
+    "creator": "Jean-Paul Boerekamps",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/110757040"
+  },
+  "gazelle-looks.jpg": {
+    "title": "thomson's gazelle",
+    "creator": "Jean-Paul Boerekamps",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/110413300"
+  },
+  "gazelle-title.jpg": {
+    "title": "dorcas gazelle",
+    "creator": "Justin Philbois",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/290500434"
+  },
+  "gazelle-where.jpg": {
+    "title": "Nanger granti granti",
+    "creator": "Jean-Paul Boerekamps",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/97108004"
+  },
+  "giraffe-bye.jpg": {
+    "title": "Giraffe portrait.",
+    "creator": "Bernard Spragg",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/88123769@N02/10622766983"
+  },
+  "giraffe-eat.jpg": {
+    "title": "Giraffe eating leaves",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/3286772/free-photo-image-animal-brown-background-cc0"
+  },
+  "giraffe-extra.jpg": {
+    "title": "Rothschild's giraffe",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/18170000829"
+  },
+  "giraffe-fact.jpg": {
+    "title": "One adult one baby giraffe",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/3305667/free-photo-image-animals-kids-game-animal"
+  },
+  "giraffe-looks.jpg": {
+    "title": "Giraffe",
+    "creator": "earthisthering",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/55958070@N08/5756127053"
+  },
+  "giraffe-title.jpg": {
+    "title": "First Lady Melania Trump's Visit to Africa",
+    "creator": "The White House",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/148748355@N05/43309132930"
+  },
+  "giraffe-where.jpg": {
+    "title": "FOUND: Africa",
+    "creator": "~filth~filler~",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/48625250@N00/19759266073"
+  },
+  "goat-bye.jpg": {
+    "title": "1637_mt_goat_matthews_odfw",
+    "creator": "Oregon Department of Fish & Wildlife",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/39743308@N07/4422967847"
+  },
+  "goat-eat.jpg": {
+    "title": "Free young white goat eating",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5907942/image-background-public-domain-kid"
+  },
+  "goat-extra.jpg": {
+    "title": "Mountain goats on Sepulcher Mountain",
+    "creator": "YellowstoneNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/80223459@N05/8468633942"
+  },
+  "goat-fact.jpg": {
+    "title": "White Goat Eating on a Green Field",
+    "creator": "MyStockPhotos",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/136375272@N05/48085280088"
+  },
+  "goat-looks.jpg": {
+    "title": "Goat- Say What",
+    "creator": "GlacierNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/43288043@N04/20903542532"
+  },
+  "goat-title.jpg": {
+    "title": "Herd goats farm cage",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/3296984/free-photo-image-cow-goat-cattle-animal"
+  },
+  "goat-where.jpg": {
+    "title": "Goats Eating in a Pasture",
+    "creator": "Alabama Extension",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/184594136@N08/52212335051"
+  },
+  "gorilla-bye.jpg": {
+    "title": "Zoo Atlanta Gorilla",
+    "creator": "StephenGA",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/97839409@N00/14240214285"
+  },
+  "gorilla-eat.jpg": {
+    "title": "Zoo Atlanta Gorilla",
+    "creator": "StephenGA",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/97839409@N00/14047479039"
+  },
+  "gorilla-extra.jpg": {
+    "title": "Zoo Atlanta Gorillas",
+    "creator": "StephenGA",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/97839409@N00/14210992346"
+  },
+  "gorilla-fact.jpg": {
+    "title": "Gorilla with baby",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/28916814373"
+  },
+  "gorilla-looks.jpg": {
+    "title": null,
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5958998/free-public-domain-cc0-photo"
+  },
+  "gorilla-title.jpg": {
+    "title": null,
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/6050740/free-public-domain-cc0-photo"
+  },
+  "gorilla-where.jpg": {
+    "title": "mountain gorilla",
+    "creator": "Scott Edmunds",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/342538614"
+  },
+  "hamster-bye.jpg": {
+    "title": "Close up",
+    "creator": "Lottie's pets & stuff",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/36943025@N07/6298126296"
+  },
+  "hamster-eat.jpg": {
+    "title": "today's menu: Sushi",
+    "creator": "Lottie's pets & stuff",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/36943025@N07/4668892070"
+  },
+  "hamster-extra.jpg": {
+    "title": "2005_10_11",
+    "creator": "Dennis S. Hurd",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/43296902@N00/51580120"
+  },
+  "hamster-fact.jpg": {
+    "title": "Kodi got a new wheel",
+    "creator": "Lottie's pets & stuff",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/36943025@N07/5410391426"
+  },
+  "hamster-looks.jpg": {
+    "title": "Mr toothless",
+    "creator": "Lottie's pets & stuff",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/36943025@N07/5153729904"
+  },
+  "hamster-title.jpg": {
+    "title": "Hamster Animals",
+    "creator": "Ricky Kharawala",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://stocksnap.io/photo/hamster-animals-1VK4P7JPG3"
+  },
+  "hamster-where.jpg": {
+    "title": "Hamster \u00e0 Blida",
+    "creator": "habib kaki 2",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/67523469@N06/38576410560"
+  },
+  "hedgehog-bye.jpg": {
+    "title": "Cute hedgehog, animal image",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/6023294/photo-image-public-domain-nature-cute"
+  },
+  "hedgehog-eat.jpg": {
+    "title": "Hedgehog eating with one foot in its food",
+    "creator": "PNEfan",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/147074003@N07/35463593665"
+  },
+  "hedgehog-extra.jpg": {
+    "title": "Igel",
+    "creator": "u278",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/187798966@N05/50118145508"
+  },
+  "hedgehog-fact.jpg": {
+    "title": "Igel",
+    "creator": "vobebis",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/105223066@N08/13174060475"
+  },
+  "hedgehog-looks.jpg": {
+    "title": "Cute hedgehog, animal image",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/6036405/photo-image-public-domain-green-nature"
+  },
+  "hedgehog-title.jpg": {
+    "title": "Cute hedgehog, animal image",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/6036683/photo-image-public-domain-green-nature"
+  },
+  "hedgehog-where.jpg": {
+    "title": "Cute hedgehog, animal image",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/6022596/photo-image-public-domain-green-nature"
+  },
+  "horse-bye.jpg": {
+    "title": "Horses",
+    "creator": "swallowedtail",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/126064386@N03/20129028816"
+  },
+  "horse-eat.jpg": {
+    "title": "Horses",
+    "creator": "swallowedtail",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/126064386@N03/20147143552"
+  },
+  "horse-extra.jpg": {
+    "title": "Horse Ploughing (22)",
+    "creator": "Bernard Spragg",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/88123769@N02/8069899166"
+  },
+  "horse-fact.jpg": {
+    "title": "Foal",
+    "creator": "swallowedtail",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/126064386@N03/18404908841"
+  },
+  "horse-looks.jpg": {
+    "title": "Foal",
+    "creator": "swallowedtail",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/126064386@N03/18404879701"
+  },
+  "horse-title.jpg": {
+    "title": "Horses",
+    "creator": "swallowedtail",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/126064386@N03/20160879461"
+  },
+  "horse-where.jpg": {
+    "title": "Horses Graze",
+    "creator": "Cynthia del Rio",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://stocksnap.io/photo/horses-graze-D9KSRRFXYR"
+  },
+  "hyena-bye.jpg": {
+    "title": "Hyena",
+    "creator": "threepwolfe",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/36373274@N07/38632091445"
+  },
+  "hyena-eat.jpg": {
+    "title": "spotted hyena",
+    "creator": "Ken Sherlock",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/4212216"
+  },
+  "hyena-extra.jpg": {
+    "title": "2023, Hyena, Kruger Park, Phabeni Gate, South-Africa#4020.jpg",
+    "creator": "Jim van de Burgt Photography",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/146851823@N08/54281552429"
+  },
+  "hyena-fact.jpg": {
+    "title": "Hyena",
+    "creator": "U.S. Geological Survey",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/27784370@N05/13558708083"
+  },
+  "hyena-looks.jpg": {
+    "title": "Gevlekte hyena (Spotted hyena) 001330",
+    "creator": "BZD1",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/43123905@N06/23112787031"
+  },
+  "hyena-title.jpg": {
+    "title": "hyena Pairi Daiza",
+    "creator": "MVD4156",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/128759513@N03/38677294352"
+  },
+  "hyena-where.jpg": {
+    "title": "Crocuta crocuta 1",
+    "creator": "Neil Strickland",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/36996580@N07/49523026677"
+  },
+  "jaguar-bye.jpg": {
+    "title": "jaguars-calin-zoo-paris",
+    "creator": "cecile.boxberger",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/123165929@N03/15814044377"
+  },
+  "jaguar-eat.jpg": {
+    "title": "Jaguar in forest",
+    "creator": "Wallboat",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/151415985@N06/35904582183"
+  },
+  "jaguar-extra.jpg": {
+    "title": "jaguar, otorongo, tigre americano, tigre real, yaguar",
+    "creator": "Etienne Falquet",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/248001649"
+  },
+  "jaguar-fact.jpg": {
+    "title": "jaguar, otorongo, tigre americano, tigre real, yaguar",
+    "creator": "Jean-Paul Boerekamps",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/93734844"
+  },
+  "jaguar-looks.jpg": {
+    "title": "Napo at Chester Zoo",
+    "creator": "Terry Kearney",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/24490288@N04/30212625327"
+  },
+  "jaguar-title.jpg": {
+    "title": null,
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5956964/free-public-domain-cc0-photo"
+  },
+  "jaguar-where.jpg": {
+    "title": "jaguar, otorongo, tigre americano, tigre real, yaguar",
+    "creator": "Jean-Paul Boerekamps",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/93734827"
+  },
+  "kangaroo-bye.jpg": {
+    "title": "Macropus giganteus tasmaniensis",
+    "creator": "george_vaughan",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/254143375"
+  },
+  "kangaroo-eat.jpg": {
+    "title": "Macropus giganteus tasmaniensis",
+    "creator": "george_vaughan",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/254187897"
+  },
+  "kangaroo-extra.jpg": {
+    "title": "Free kangaroo image",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5909837/image-background-public-domain-nature"
+  },
+  "kangaroo-fact.jpg": {
+    "title": "Free mother baby kangaroos image",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5905333/photo-image-background-public-domain-tree"
+  },
+  "kangaroo-looks.jpg": {
+    "title": "Macropus giganteus 1",
+    "creator": "Neil Strickland",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/36996580@N07/49535146378"
+  },
+  "kangaroo-title.jpg": {
+    "title": "Eastern grey kangaroos",
+    "creator": "CazzJj",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/64249609@N08/26652183011"
+  },
+  "kangaroo-where.jpg": {
+    "title": "Eastern grey kangaroos",
+    "creator": "CazzJj",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/64249609@N08/26624958862"
+  },
+  "koala-bye.jpg": {
+    "title": "Koala Family",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/24414970851"
+  },
+  "koala-eat.jpg": {
+    "title": "Koala",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/22190248356"
+  },
+  "koala-extra.jpg": {
+    "title": null,
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5960902/free-public-domain-cc0-photo"
+  },
+  "koala-fact.jpg": {
+    "title": "koala",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/26068494991"
+  },
+  "koala-looks.jpg": {
+    "title": "Koala",
+    "creator": "Bernard Spragg",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/88123769@N02/9080276709"
+  },
+  "koala-title.jpg": {
+    "title": "Koala",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/48115657957"
+  },
+  "koala-where.jpg": {
+    "title": "Free koala tree branch image",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5912558/image-public-domain-leaves-tree"
+  },
+  "lemur-bye.jpg": {
+    "title": "Ring-Tailed Lemur",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/33780985142"
+  },
+  "lemur-eat.jpg": {
+    "title": "Ring-tailed lemur 2016-01-08-00705",
+    "creator": "BZD1",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/43123905@N06/24273326851"
+  },
+  "lemur-extra.jpg": {
+    "title": "Sunbathing Lemur",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/25489484951"
+  },
+  "lemur-fact.jpg": {
+    "title": "Lemur",
+    "creator": "Crooklar",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/134788023@N07/28413166830"
+  },
+  "lemur-looks.jpg": {
+    "title": "lemur",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/26089909676"
+  },
+  "lemur-title.jpg": {
+    "title": "Ring-Tailed Lemur",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/15800132457"
+  },
+  "lemur-where.jpg": {
+    "title": "Ring-Tailed Lemur Baby",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/34819459366"
+  },
+  "leopard-bye.jpg": {
+    "title": "Leopard cub duo",
+    "creator": "SCP - Appreciator of felines",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/193732385@N04/53028494627"
+  },
+  "leopard-eat.jpg": {
+    "title": "Amur Leopard, Marwell Zoo",
+    "creator": "jim_2wilson",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/34992187@N06/50282311027"
+  },
+  "leopard-extra.jpg": {
+    "title": "Leopard perched tree stalks its",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/3282623/free-photo-image-leopard-cheetah-creative-commons"
+  },
+  "leopard-fact.jpg": {
+    "title": "2015_10_04_Mara_Live_JPEG_RESIZED_0011",
+    "creator": "makeitkenya",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/132740829@N02/22023070576"
+  },
+  "leopard-looks.jpg": {
+    "title": "Leopard Male at Nagarhole National park , India",
+    "creator": "insideindianjungles",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/163207820@N02/40624644913"
+  },
+  "leopard-title.jpg": {
+    "title": "Amur Leopard, Marwell Zoo",
+    "creator": "jim_2wilson",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/34992187@N06/50281471463"
+  },
+  "leopard-where.jpg": {
+    "title": "2015_10_04_Mara_Live_JPEG_RESIZED_0014",
+    "creator": "makeitkenya",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/132740829@N02/21862359079"
+  },
+  "lion-bye.jpg": {
+    "title": "Zoo Atlanta Lion Cub",
+    "creator": "StephenGA",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/97839409@N00/14234340935"
+  },
+  "lion-eat.jpg": {
+    "title": "Lioness",
+    "creator": "spongebabyalwaysfull",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/73080909@N03/9695797337"
+  },
+  "lion-extra.jpg": {
+    "title": "Lion",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/51648555325"
+  },
+  "lion-fact.jpg": {
+    "title": "lion sleeping",
+    "creator": "izaleathem",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/153286307@N06/32809790983"
+  },
+  "lion-looks.jpg": {
+    "title": "Lion roaring.",
+    "creator": "Michelle Frechette",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://wordpress.org/photos/photo/42061b26a7/"
+  },
+  "lion-title.jpg": {
+    "title": "Free pride lion roaring, wildlife",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5922314/photo-image-face-public-domain-nature"
+  },
+  "lion-where.jpg": {
+    "title": "Lioness-Kenya",
+    "creator": "chachasarra",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/82995800@N06/49503932342"
+  },
+  "llama-bye.jpg": {
+    "title": "Llamas graze grassy field ruins",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/3288555/free-photo-image-alpaca-animal-animals-images-pictures"
+  },
+  "llama-eat.jpg": {
+    "title": "Machu Pichu",
+    "creator": "Aled Wright",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/36793302@N07/36388670694"
+  },
+  "llama-extra.jpg": {
+    "title": "A Llama Named Mike",
+    "creator": "cogdogblog",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/37996646802@N01/2156472548"
+  },
+  "llama-fact.jpg": {
+    "title": "Who Ya Calling Two Headed Llama?",
+    "creator": "cogdogblog",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/37996646802@N01/43110383210"
+  },
+  "llama-looks.jpg": {
+    "title": "guanaco, llama",
+    "creator": "Peter Gabler",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/48498497"
+  },
+  "llama-title.jpg": {
+    "title": null,
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/6058368/free-public-domain-cc0-photo"
+  },
+  "llama-where.jpg": {
+    "title": null,
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/6056879/free-public-domain-cc0-photo"
+  },
+  "lynx-bye.jpg": {
+    "title": "eurasian lynx, lince, lynx bor\u00e9al, lynx commun",
+    "creator": "Ida Gabler",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/81442737"
+  },
+  "lynx-eat.jpg": {
+    "title": "Lynx",
+    "creator": "KatmaiNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/99350217@N03/51608349870"
+  },
+  "lynx-extra.jpg": {
+    "title": "eurasian lynx, lince, lynx bor\u00e9al, lynx commun",
+    "creator": "Peter Gabler",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/48498436"
+  },
+  "lynx-fact.jpg": {
+    "title": "Lynx",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/16297948130"
+  },
+  "lynx-looks.jpg": {
+    "title": "lynx",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/26151266335"
+  },
+  "lynx-title.jpg": {
+    "title": "Lynx",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/16483591941"
+  },
+  "lynx-where.jpg": {
+    "title": "canada lynx, canadian lynx, lince de canada, loup-cervier, lynx, lynx du canada",
+    "creator": "Kim Selbee",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/108921145"
+  },
+  "meerkat-bye.jpg": {
+    "title": "Meerkat looking towards camera at Oakland Zoo",
+    "creator": "D Coetzee",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/29507259@N02/10545745435"
+  },
+  "meerkat-eat.jpg": {
+    "title": "Meerkat, Port Lympne, Kent",
+    "creator": "barry.marsh1944",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/126409951@N04/14593047870"
+  },
+  "meerkat-extra.jpg": {
+    "title": "Meerkat standing, desert animal",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/6015937/photo-image-background-public-domain-nature"
+  },
+  "meerkat-fact.jpg": {
+    "title": "Erdm\u00e4nnchen - Meerkat",
+    "creator": "Magdeburg",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/55276930@N04/52511687989"
+  },
+  "meerkat-looks.jpg": {
+    "title": "Meerkat",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/16691801707"
+  },
+  "meerkat-title.jpg": {
+    "title": "Meerkat",
+    "creator": "JerryGoulet",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/102885505@N07/30848865470"
+  },
+  "meerkat-where.jpg": {
+    "title": "Meerkat",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/23802430701"
+  },
+  "mongoose-bye.jpg": {
+    "title": "Banded Mongoose (2016) Clyde E",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/3060375/free-photo-image-animal-animals-public-domain-zoo"
+  },
+  "mongoose-eat.jpg": {
+    "title": "common dwarf mongoose, dwarf mongoose",
+    "creator": "Jean-Paul Boerekamps",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/110762849"
+  },
+  "mongoose-extra.jpg": {
+    "title": "indian mongoose, small indian mongoose",
+    "creator": "Zolt\u00e1n Stekkelpak",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/42150249"
+  },
+  "mongoose-fact.jpg": {
+    "title": "Mongoose pile",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/23221464386"
+  },
+  "mongoose-looks.jpg": {
+    "title": "banded mongoose",
+    "creator": "Andrew Deacon",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/58473801"
+  },
+  "mongoose-title.jpg": {
+    "title": "Common dwarf mongoose",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/17514142493"
+  },
+  "mongoose-where.jpg": {
+    "title": "banded mongoose",
+    "creator": "Jason Graham",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/376635127"
+  },
+  "monkey-bye.jpg": {
+    "title": "a monkey in Ubud, Bali, Indonesia",
+    "creator": "keulefm3",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/138091867@N03/24682362526"
+  },
+  "monkey-eat.jpg": {
+    "title": "Sai Yok Monkey",
+    "creator": "Raini4",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/53106173@N05/5356946672"
+  },
+  "monkey-extra.jpg": {
+    "title": "Monkey family. Monkeys sitting on a wall holding with a faded view of the valley behind.",
+    "creator": "Ankit K Gupta",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://wordpress.org/photos/photo/67865c506c/"
+  },
+  "monkey-fact.jpg": {
+    "title": "Squirrel Monkeys",
+    "creator": "soleqtravel",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/145873402@N07/29799831553"
+  },
+  "monkey-looks.jpg": {
+    "title": "Howler Monkey",
+    "creator": "Terry Kearney",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/24490288@N04/26676947849"
+  },
+  "monkey-title.jpg": {
+    "title": "Macaque Monkey",
+    "creator": "Bernard Spragg",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/88123769@N02/16787053847"
+  },
+  "monkey-where.jpg": {
+    "title": "Free curious squirrel monkey tree",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5925592/photo-image-background-public-domain-tree"
+  },
+  "moose-bye.jpg": {
+    "title": "Moose- Portrait",
+    "creator": "GlacierNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/43288043@N04/24355752584"
+  },
+  "moose-eat.jpg": {
+    "title": "Bull Moose",
+    "creator": "GlacierNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/43288043@N04/50095076466"
+  },
+  "moose-extra.jpg": {
+    "title": "Bull Moose Sticking Tongue Out",
+    "creator": "GrandTetonNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/144302732@N07/28257188958"
+  },
+  "moose-fact.jpg": {
+    "title": "Bull Moose",
+    "creator": "GlacierNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/43288043@N04/50095305742"
+  },
+  "moose-looks.jpg": {
+    "title": "Shiras Moose Bull Crossing the Green River on Seedskadee NWR 1",
+    "creator": "USFWS Mountain Prairie",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/51986662@N05/12979598865"
+  },
+  "moose-title.jpg": {
+    "title": "Bull Moose",
+    "creator": "DenaliNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/57557144@N06/5302689686"
+  },
+  "moose-where.jpg": {
+    "title": "Photo of the Week - Moose at Conte National Fish and Wildlife Refuge",
+    "creator": "U. S. Fish and Wildlife Service - Northeast Region",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/43322816@N08/5149043378"
+  },
+  "mouse-bye.jpg": {
+    "title": "harvest mouse",
+    "creator": "YU-bin",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/12342431@N06/29192397992"
+  },
+  "mouse-eat.jpg": {
+    "title": "Cute mouse eating",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/6021116/cute-mouse-eating-free-public-domain-cc0-image"
+  },
+  "mouse-extra.jpg": {
+    "title": "Salt marsh harvest mouse",
+    "creator": "USFWS Pacific Southwest Region",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/54430347@N04/19844719104"
+  },
+  "mouse-fact.jpg": {
+    "title": "Mouse eating",
+    "creator": "amandil_eldamar",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/136617541@N02/26921837753"
+  },
+  "mouse-looks.jpg": {
+    "title": "Free wood mouse close portrait",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5908355/image-public-domain-wood-nature"
+  },
+  "mouse-title.jpg": {
+    "title": "Cute mouse eating",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/6034539/cute-mouse-eating-free-public-domain-cc0-image"
+  },
+  "mouse-where.jpg": {
+    "title": "common field mouse, long-tailed field mouse",
+    "creator": "Simon Tonge",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/12958469"
+  },
+  "orangutan-bye.jpg": {
+    "title": "Solitary orangutan eating infant",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/3338031/free-photo-image-ape-animal-cc0"
+  },
+  "orangutan-eat.jpg": {
+    "title": "bornean orangutan, orangutan",
+    "creator": "James Eaton",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/339015447"
+  },
+  "orangutan-extra.jpg": {
+    "title": "bornean orangutan, orangutan",
+    "creator": "Justin Philbois",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/390616506"
+  },
+  "orangutan-fact.jpg": {
+    "title": "Orangutan on tree",
+    "creator": "U.S. Agency for International Development",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/10995716/orangutan-tree"
+  },
+  "orangutan-looks.jpg": {
+    "title": "bornean orangutan, orangutan",
+    "creator": "Justin Philbois",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/390601437"
+  },
+  "orangutan-title.jpg": {
+    "title": "bornean orangutan, orangutan",
+    "creator": "Justin Philbois",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/390616684"
+  },
+  "orangutan-where.jpg": {
+    "title": "bornean orangutan, orangutan",
+    "creator": "Justin Philbois",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/411366383"
+  },
+  "panda-bye.jpg": {
+    "title": "Baby panda having a hard time climbing out of ditch after falling Giant Panda Breeding Center Chengdu China",
+    "creator": "amanderson2",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/49399018@N00/24046918747"
+  },
+  "panda-eat.jpg": {
+    "title": "Free panda eating bamboo image",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5914515/photo-image-background-public-domain-green"
+  },
+  "panda-extra.jpg": {
+    "title": "two pandas sharing a bamboo Giant Panda Breeding Center Chengdu China",
+    "creator": "amanderson2",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/49399018@N00/38876030152"
+  },
+  "panda-fact.jpg": {
+    "title": "panda cubs sleeping",
+    "creator": "archieflickers",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/13898829@N04/36850513243"
+  },
+  "panda-looks.jpg": {
+    "title": "giant panda, star attraction Smithsonian",
+    "creator": "Carol M Highsmith",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/421945/free-photo-image-panda-bear-chinese"
+  },
+  "panda-title.jpg": {
+    "title": "Baby panda climbing on to platform Giant Panda Breeding Center Chengdu China",
+    "creator": "amanderson2",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/49399018@N00/27135208069"
+  },
+  "panda-where.jpg": {
+    "title": "Ailuropoda melanoleuca qinlingensis",
+    "creator": "James Eaton",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/351209016"
+  },
+  "pig-bye.jpg": {
+    "title": "20110506-RD-LSC-1387",
+    "creator": "USDAgov",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/41284017@N08/5707774275"
+  },
+  "pig-eat.jpg": {
+    "title": "20110506-RD-LSC-1393",
+    "creator": "USDAgov",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/41284017@N08/5707778059"
+  },
+  "pig-extra.jpg": {
+    "title": "Free Large White pig mud",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5906270/photo-image-public-domain-nature-free"
+  },
+  "pig-fact.jpg": {
+    "title": "Piglets Nursing",
+    "creator": "Image Catalog",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/132795455@N08/17253404342"
+  },
+  "pig-looks.jpg": {
+    "title": "piglet",
+    "creator": "ahlea",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/73946419@N07/33454835383"
+  },
+  "pig-title.jpg": {
+    "title": "",
+    "creator": "josheberry",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/136752345@N03/21979834776"
+  },
+  "pig-where.jpg": {
+    "title": "Cute pig, farm animal portrait",
+    "creator": "U.S. Department of Agriculture",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/8733828/photo-image-face-public-domain-cute"
+  },
+  "porcupine-bye.jpg": {
+    "title": "Porcupine",
+    "creator": "U.S. Fish and Wildlife Service - Midwest Region",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/49208525@N08/32543997391"
+  },
+  "porcupine-eat.jpg": {
+    "title": "Porcupine_w_tongue_out_Tongass_JSK_015",
+    "creator": "Forest Service Alaska Region, USDA",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/58184989@N07/52503364858"
+  },
+  "porcupine-extra.jpg": {
+    "title": "Porcupine",
+    "creator": "U.S. Fish and Wildlife Service - Midwest Region",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/49208525@N08/5670622729"
+  },
+  "porcupine-fact.jpg": {
+    "title": "A baby porcupine or porcupette",
+    "creator": "LakeClarkNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/93799642@N07/41080146642"
+  },
+  "porcupine-looks.jpg": {
+    "title": "Erethizon dorsatum",
+    "creator": "Shaun Pogacnik",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/115864185"
+  },
+  "porcupine-title.jpg": {
+    "title": "Porcupine",
+    "creator": "GrandTetonNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/144302732@N07/28258034138"
+  },
+  "porcupine-where.jpg": {
+    "title": "Erethizon dorsatum",
+    "creator": "aspidoscelis",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/26246711@N00/34951834211"
+  },
+  "rabbit-bye.jpg": {
+    "title": "Wild rabbit",
+    "creator": "Phoppie",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/36566196@N02/28399154901"
+  },
+  "rabbit-eat.jpg": {
+    "title": "Rabbit Eating",
+    "creator": "Wallboat",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/151415985@N06/37325609152"
+  },
+  "rabbit-extra.jpg": {
+    "title": "Rabbit sitting with yellow flower closeup",
+    "creator": "D Coetzee",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/29507259@N02/3619152834"
+  },
+  "rabbit-fact.jpg": {
+    "title": "European rabbits",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/20709325971"
+  },
+  "rabbit-looks.jpg": {
+    "title": "European rabbit",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/19618671433"
+  },
+  "rabbit-title.jpg": {
+    "title": "Free wild rabbit image",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5901422/photo-image-background-public-domain-nature"
+  },
+  "rabbit-where.jpg": {
+    "title": "European Rabbit",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/20271297781"
+  },
+  "raccoon-bye.jpg": {
+    "title": "raccoon",
+    "creator": "BigCypressNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/72362382@N04/31377495010"
+  },
+  "raccoon-eat.jpg": {
+    "title": "167 Collier Street II Barrie Ontario Canada",
+    "creator": "antefixus21",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/21728045@N08/54819148351"
+  },
+  "raccoon-extra.jpg": {
+    "title": "Raccoon",
+    "creator": "Photo Cindy",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/13631562@N00/4301171521"
+  },
+  "raccoon-fact.jpg": {
+    "title": "Raccoon",
+    "creator": "YoungSue",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/95782365@N08/32054422464"
+  },
+  "raccoon-looks.jpg": {
+    "title": "RACCOON (procyon lotor) (10-7-09) oso flaco, slo co, ca -02",
+    "creator": "Sloalan",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/8101022@N05/3991645208"
+  },
+  "raccoon-title.jpg": {
+    "title": "raccoon",
+    "creator": "BigCypressNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/72362382@N04/31603262102"
+  },
+  "raccoon-where.jpg": {
+    "title": "Raccoon in a tree",
+    "creator": "U.S. Fish and Wildlife Service - Midwest Region",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/49208525@N08/47485910821"
+  },
+  "red-panda-bye.jpg": {
+    "title": "Red panda eating bamboo leaf",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5925719/photo-image-face-public-domain-tree"
+  },
+  "red-panda-eat.jpg": {
+    "title": "Red Panda",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/20946796796"
+  },
+  "red-panda-extra.jpg": {
+    "title": "Red Panda",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/16071822027"
+  },
+  "red-panda-fact.jpg": {
+    "title": "Free red panda tree nature",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5907004/photo-image-public-domain-tree-nature"
+  },
+  "red-panda-looks.jpg": {
+    "title": "Free red panda tree nature",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5920992/photo-image-public-domain-tree-nature"
+  },
+  "red-panda-title.jpg": {
+    "title": "Red Panda",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/15073792493"
+  },
+  "red-panda-where.jpg": {
+    "title": "Free red panda tree nature",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5907322/photo-image-public-domain-tree-nature"
+  },
+  "reindeer-bye.jpg": {
+    "title": "Caribou Calf",
+    "creator": "AlaskaNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/75182224@N04/9024877543"
+  },
+  "reindeer-eat.jpg": {
+    "title": "Rangifer tarandus platyrhynchus",
+    "creator": "steve b",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/301516921"
+  },
+  "reindeer-extra.jpg": {
+    "title": "Lapland 2021, Santa Claus Village",
+    "creator": "dickinsonjohn02",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/126293612@N07/52121066682"
+  },
+  "reindeer-fact.jpg": {
+    "title": "Reindeer north of Wales",
+    "creator": "AlaskaNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/75182224@N04/8029744034"
+  },
+  "reindeer-looks.jpg": {
+    "title": "Profile of a Bull Caribou",
+    "creator": "DenaliNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/57557144@N06/7956336958"
+  },
+  "reindeer-title.jpg": {
+    "title": "Caribou in Gates of the Arctic National Park",
+    "creator": "AlaskaNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/75182224@N04/9024878311"
+  },
+  "reindeer-where.jpg": {
+    "title": "The Other 364 Days of the Year: The Real Lives of Wild Reindeer",
+    "creator": "U.S. Geological Survey",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/27784370@N05/15842503347"
+  },
+  "rhinoceros-bye.jpg": {
+    "title": "A crash of rhinos.",
+    "creator": "Bernard Spragg",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/88123769@N02/14156952599"
+  },
+  "rhinoceros-eat.jpg": {
+    "title": "White Rhinoceros",
+    "creator": "Bernard Spragg",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/88123769@N02/9114161448"
+  },
+  "rhinoceros-extra.jpg": {
+    "title": "One Horn Rhino, Baby Rhino enjoying on the pond with his mother",
+    "creator": "themecanary.com",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://wordpress.org/photos/photo/1036451c6c/"
+  },
+  "rhinoceros-fact.jpg": {
+    "title": "Black Rhino grazing grass",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/3282700/free-photo-image-rhino-landscape-horn"
+  },
+  "rhinoceros-looks.jpg": {
+    "title": "White rhino full body Etosha",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/3372384/free-photo-image-elephant-creative-animal"
+  },
+  "rhinoceros-title.jpg": {
+    "title": "Black/White Rhino (?)",
+    "creator": "WePergamus",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/196470478@N08/52329223115"
+  },
+  "rhinoceros-where.jpg": {
+    "title": "black rhino - Ngorongoro crater",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/3370871/free-photo-image-animal-cattle-cc0"
+  },
+  "sheep-bye.jpg": {
+    "title": "Counting Sheep ...... five",
+    "creator": "Terry Kearney",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/24490288@N04/16622584999"
+  },
+  "sheep-eat.jpg": {
+    "title": "Quitely grazing.",
+    "creator": "Bernard Spragg",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/88123769@N02/15432648626"
+  },
+  "sheep-extra.jpg": {
+    "title": "The ewe flock.",
+    "creator": "Bernard Spragg",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/88123769@N02/8096349137"
+  },
+  "sheep-fact.jpg": {
+    "title": "In Like a Lamb",
+    "creator": "USFWS Mountain Prairie",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/51986662@N05/16723435082"
+  },
+  "sheep-looks.jpg": {
+    "title": "Merino lamb.",
+    "creator": "Bernard Spragg",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/88123769@N02/16507853662"
+  },
+  "sheep-title.jpg": {
+    "title": "Counting Sheep ..... Two",
+    "creator": "Terry Kearney",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/24490288@N04/16162032353"
+  },
+  "sheep-where.jpg": {
+    "title": "Sheep Graze at Fort Ord",
+    "creator": "blmcalifornia",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/50976304@N07/7136289043"
+  },
+  "skunk-bye.jpg": {
+    "title": "Striped skunk",
+    "creator": "U.S. Fish and Wildlife Service - Midwest Region",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/49208525@N08/53623981297"
+  },
+  "skunk-eat.jpg": {
+    "title": "Striped Skunk",
+    "creator": "ShenandoahNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/67015038@N06/6821219990"
+  },
+  "skunk-extra.jpg": {
+    "title": "Skunk",
+    "creator": "Santa Monica Mountains National Recreation Area",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/38729417@N06/9098637674"
+  },
+  "skunk-fact.jpg": {
+    "title": "Striped skunk in the snow",
+    "creator": "YellowstoneNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/80223459@N05/53482952065"
+  },
+  "skunk-looks.jpg": {
+    "title": "SKUNK, HOODED (Mephitis macroura) (1-13-11) patagonia lake, scc, az -01",
+    "creator": "Sloalan",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/8101022@N05/5502324403"
+  },
+  "skunk-title.jpg": {
+    "title": "Baby Striped Skunk",
+    "creator": "LandBetweentheLakesKYTN",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/82242140@N05/14928066475"
+  },
+  "skunk-where.jpg": {
+    "title": "Striped Skunk",
+    "creator": "ShenandoahNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/67015038@N06/31696396908"
+  },
+  "sloth-bye.jpg": {
+    "title": "Free sloth hanging tree photo",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5921820/photo-image-public-domain-leaves-tree"
+  },
+  "sloth-eat.jpg": {
+    "title": "Two-toed sloth",
+    "creator": "Mathias Appel",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/91501748@N07/25741299021"
+  },
+  "sloth-extra.jpg": {
+    "title": "Two three-toed sloths hanging from a horizontal branch of a cecropia tree, one smaller and one larger, with green hills blurred in the background.",
+    "creator": "jchavarria670331",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://wordpress.org/photos/photo/636a723d82/"
+  },
+  "sloth-fact.jpg": {
+    "title": "baby sloth piggybacking its parent",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/3303983/free-photo-image-moss-sloth-agaric"
+  },
+  "sloth-looks.jpg": {
+    "title": "A three-toed sloth hanging from a thick pale rope with one arm raised, looking toward the camera, against blurred sunlit green foliage.",
+    "creator": "jchavarria670331",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://wordpress.org/photos/photo/9856a723e8/"
+  },
+  "sloth-title.jpg": {
+    "title": "Free sloth hanging tree photo",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5911540/image-public-domain-leaves-tree"
+  },
+  "sloth-where.jpg": {
+    "title": "sloth tree branch tropical forest",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/3295707/free-photo-image-animal-bird-cc0"
+  },
+  "snake-bye.jpg": {
+    "title": "Corn Snake 2",
+    "creator": "Alabama Extension",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/184594136@N08/49203520838"
+  },
+  "snake-eat.jpg": {
+    "title": "Gopher Snake",
+    "creator": "Santa Monica Mountains National Recreation Area",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/38729417@N06/11970141595"
+  },
+  "snake-extra.jpg": {
+    "title": "California King Snake (Lampropeltis getula californiae) at Fort Ord",
+    "creator": "blmcalifornia",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/50976304@N07/52991129391"
+  },
+  "snake-fact.jpg": {
+    "title": "European Grass Snake (Natrix natrix)",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/3339351/free-photo-image-snake-animal-cc0"
+  },
+  "snake-looks.jpg": {
+    "title": "Corn Snake 3",
+    "creator": "Alabama Extension",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/184594136@N08/49203520353"
+  },
+  "snake-title.jpg": {
+    "title": "snake",
+    "creator": "ahlea",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/73946419@N07/6700825335"
+  },
+  "snake-where.jpg": {
+    "title": "Corn Snake, NPSPhoto",
+    "creator": "evergladesnps",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/56295925@N07/9255026919"
+  },
+  "snow-leopard-bye.jpg": {
+    "title": "White Leopard",
+    "creator": "Worlds Direction",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/144661696@N05/34012965743"
+  },
+  "snow-leopard-eat.jpg": {
+    "title": "Snow Leopard at Orsa Bj\u00f6rnpark",
+    "creator": "fridabredesen",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/150792268@N02/37174949016"
+  },
+  "snow-leopard-extra.jpg": {
+    "title": "Snow Leopard - wannabe_brazilian",
+    "creator": "Douglas Tofoli",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/141973883@N05/27369545014"
+  },
+  "snow-leopard-fact.jpg": {
+    "title": "Snow Leopard at Orsa Bj\u00f6rnpark",
+    "creator": "fridabredesen",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/150792268@N02/37174949316"
+  },
+  "snow-leopard-looks.jpg": {
+    "title": "Snow Leopard [4280045]",
+    "creator": "Stickarm",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/8548767@N02/13888042319"
+  },
+  "snow-leopard-title.jpg": {
+    "title": "Marwell Zoo - Snow Leopard",
+    "creator": "davidgsteadman",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/90949166@N00/20620980362"
+  },
+  "snow-leopard-where.jpg": {
+    "title": "Snow Leopard at Orsa Bj\u00f6rnpark",
+    "creator": "fridabredesen",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/150792268@N02/37222275281"
+  },
+  "squirrel-bye.jpg": {
+    "title": "Squirrel",
+    "creator": "svklimkin",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/152442938@N03/35008633193"
+  },
+  "squirrel-eat.jpg": {
+    "title": "Cute squirrel eating nut image",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/6031540/photo-image-public-domain-nature-cute"
+  },
+  "squirrel-extra.jpg": {
+    "title": "Free cute squirrel eating nut",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5912359/photo-image-background-public-domain-nature"
+  },
+  "squirrel-fact.jpg": {
+    "title": "Delmarva fox squirrel caught on remotely triggered camera",
+    "creator": "U. S. Fish and Wildlife Service - Northeast Region",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/43322816@N08/7823906126"
+  },
+  "squirrel-looks.jpg": {
+    "title": "Cute squirrel eating nut image",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/6042343/photo-image-public-domain-nature-cute"
+  },
+  "squirrel-title.jpg": {
+    "title": "Red squirrel, tree living rodent",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/11189581/red-squirrel-tree-living-rodent"
+  },
+  "squirrel-where.jpg": {
+    "title": "Squirrel tree",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/3284906/free-photo-image-squirrel-animal-nut"
+  },
+  "tiger-bye.jpg": {
+    "title": "Tiger seekings",
+    "creator": "Wallboat",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/151415985@N06/37308214956"
+  },
+  "tiger-eat.jpg": {
+    "title": "Tiger Forest Fota",
+    "creator": "Sean Truscott photography",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/143819857@N06/36020965496"
+  },
+  "tiger-extra.jpg": {
+    "title": "tiger water",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/3337603/free-photo-image-tiger-animal"
+  },
+  "tiger-fact.jpg": {
+    "title": "Close shot tiger face",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/3372267/free-photo-image-tiger-animal-creative"
+  },
+  "tiger-looks.jpg": {
+    "title": "Sumatran Tiger.",
+    "creator": "Bernard Spragg",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/88123769@N02/14342594774"
+  },
+  "tiger-title.jpg": {
+    "title": "Royal Bengal Tiger",
+    "creator": "Ram' s Foto",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/137615314@N06/22175525223"
+  },
+  "tiger-where.jpg": {
+    "title": "Tiger Forest Fota",
+    "creator": "Sean Truscott photography",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/143819857@N06/35222264924"
+  },
+  "tortoise-bye.jpg": {
+    "title": "Baby Desert Tortoise",
+    "creator": "U.S. Geological Survey",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/27784370@N05/16490346262"
+  },
+  "tortoise-eat.jpg": {
+    "title": "Desert tortoise eating cactus fruits",
+    "creator": "Desert Landscape Conservation Cooperative",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/128198311@N03/30943036727"
+  },
+  "tortoise-extra.jpg": {
+    "title": "Male Desert Tortoise",
+    "creator": "Joshua Tree National Park",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/115357548@N08/15002477162"
+  },
+  "tortoise-fact.jpg": {
+    "title": "Giant Tortoise",
+    "creator": "onejeet",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/143413219@N06/43946316590"
+  },
+  "tortoise-looks.jpg": {
+    "title": "Desert tortoise (Gopherus agassizii)",
+    "creator": "Joshua Tree National Park",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/115357548@N08/12488844305"
+  },
+  "tortoise-title.jpg": {
+    "title": "Baby Desert Tortoise Walking",
+    "creator": "Joshua Tree National Park",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/115357548@N08/15490143732"
+  },
+  "tortoise-where.jpg": {
+    "title": "Desert Tortoise Eating",
+    "creator": "Joshua Tree National Park",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/115357548@N08/53904962188"
+  },
+  "warthog-bye.jpg": {
+    "title": "Warthogs \u2014 Mother and Child",
+    "creator": "threepwolfe",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/36373274@N07/24660515797"
+  },
+  "warthog-eat.jpg": {
+    "title": "Phacochoerus africanus sundevallii",
+    "creator": "Andrew Deacon",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/23685234"
+  },
+  "warthog-extra.jpg": {
+    "title": "Warthogs",
+    "creator": "threepwolfe",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/36373274@N07/39498254502"
+  },
+  "warthog-fact.jpg": {
+    "title": "Warthogs",
+    "creator": "threepwolfe",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/36373274@N07/24660495147"
+  },
+  "warthog-looks.jpg": {
+    "title": "Phacochoerus africanus sundevallii",
+    "creator": "Simon Tonge",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/12522212"
+  },
+  "warthog-title.jpg": {
+    "title": "Phacochoerus aethiopicus delamerei",
+    "creator": "Simon Tonge",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/12522194"
+  },
+  "warthog-where.jpg": {
+    "title": "Phacochoerus africanus sundevallii",
+    "creator": "Simon Tonge",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/12522338"
+  },
+  "wolf-bye.jpg": {
+    "title": "Gray wolf",
+    "creator": "USFWS Headquarters",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/50838842@N06/8952676448"
+  },
+  "wolf-eat.jpg": {
+    "title": "Wolf #10 in Rose Creek Pen",
+    "creator": "YellowstoneNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/80223459@N05/16239759082"
+  },
+  "wolf-extra.jpg": {
+    "title": "Gray wolf",
+    "creator": "USFWS Headquarters",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/50838842@N06/6862200695"
+  },
+  "wolf-fact.jpg": {
+    "title": "Howling Wolf- Croatia",
+    "creator": "chachasarra",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/82995800@N06/50378203371"
+  },
+  "wolf-looks.jpg": {
+    "title": "varg wolf",
+    "creator": "ahlea",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/73946419@N07/6730828759"
+  },
+  "wolf-title.jpg": {
+    "title": "Wolf portrait taken from a vehicle in a pullout",
+    "creator": "YellowstoneNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/80223459@N05/38346221956"
+  },
+  "wolf-where.jpg": {
+    "title": "Yellowstone Delta Pack wolf",
+    "creator": "YellowstoneNPS",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/80223459@N05/15273417887"
+  },
+  "yak-bye.jpg": {
+    "title": "domestic yak, grunting ox, yak",
+    "creator": "Ivette",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/226295806"
+  },
+  "yak-eat.jpg": {
+    "title": "domestic yak, grunting ox, yak",
+    "creator": "Simon Tonge",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/11874561"
+  },
+  "yak-extra.jpg": {
+    "title": "Yak carrying goods on a mountain trail with snow-capped peaks in the background.",
+    "creator": "Bibek KC",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://wordpress.org/photos/photo/7416a11d8b/"
+  },
+  "yak-fact.jpg": {
+    "title": "domestic yak, grunting ox, yak",
+    "creator": "Ina",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/61504851"
+  },
+  "yak-looks.jpg": {
+    "title": "domestic yak, grunting ox, yak",
+    "creator": "Simon Tonge",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.inaturalist.org/photos/11874572"
+  },
+  "yak-title.jpg": {
+    "title": "A large black yak with curved horns standing on a dry alpine meadow with a dramatic snow-capped Himalayan peak and billowing white clouds rising behind it.",
+    "creator": "Bibek KC",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://wordpress.org/photos/photo/4346a11d7c/"
+  },
+  "yak-where.jpg": {
+    "title": "Yak Land",
+    "creator": "Ali Sabbagh",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/32174721@N04/33372791396"
+  },
+  "zebra-bye.jpg": {
+    "title": "Zebra",
+    "creator": "Mussi Katz",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/52775988@N00/24694097565"
+  },
+  "zebra-eat.jpg": {
+    "title": "large zebra grazing dry grass",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/3294803/free-photo-image-zebra-africa-animal"
+  },
+  "zebra-extra.jpg": {
+    "title": "Free zebra grazing image",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5917633/photo-image-background-public-domain-nature"
+  },
+  "zebra-fact.jpg": {
+    "title": "Zebra Stripes",
+    "creator": null,
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.rawpixel.com/image/5969560/zebra-stripes"
+  },
+  "zebra-looks.jpg": {
+    "title": "Zebra Stripes",
+    "creator": "Elijah Henderson",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://stocksnap.io/photo/zebra-stripes-EME7PRTQGQ"
+  },
+  "zebra-title.jpg": {
+    "title": "Zebra",
+    "creator": "Mussi Katz",
+    "license": "CC0 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/52775988@N00/24694097565"
+  },
+  "zebra-where.jpg": {
+    "title": "Zebra-Kenya",
+    "creator": "chachasarra",
+    "license": "PDM 1.0",
+    "creditRequired": false,
+    "page": "https://www.flickr.com/photos/82995800@N06/49429532133"
   }
 }

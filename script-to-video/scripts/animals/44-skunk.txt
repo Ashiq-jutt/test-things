@@ -1,0 +1,34 @@
+title: Meet the Skunk
+format: horizontal
+theme: midnight
+voice: af_bella
+rate: 150
+---
+
+# Meet the Skunk
+[image: photos/skunk-title.jpg]
+Hello friends! Today we will meet the skunk. Skunks are black and white.
+
+# What does it look like?
+[image: photos/skunk-looks.jpg]
+A skunk has black fur with white stripes and a big fluffy tail.
+
+# Where does it live?
+[image: photos/skunk-where.jpg]
+Skunks live in forests and fields in North and South America.
+
+# What does it eat?
+[image: photos/skunk-eat.jpg]
+Skunks eat insects, worms, fruit, and plants.
+
+# A stinky spray
+[image: photos/skunk-extra.jpg]
+When a skunk is scared, it sprays a very stinky smell. Then other animals run away!
+
+# Fun fact
+[image: photos/skunk-fact.jpg]
+Before it sprays, a skunk stamps its feet. That means, stay away!
+
+# See you next time
+[image: photos/skunk-bye.jpg]
+Goodbye, skunk! See you next time, friends.

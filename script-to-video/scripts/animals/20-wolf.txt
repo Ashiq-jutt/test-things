@@ -1,0 +1,34 @@
+title: Meet the Wolf
+format: horizontal
+theme: midnight
+voice: af_bella
+rate: 150
+---
+
+# Meet the Wolf
+[image: photos/wolf-title.jpg]
+Hello friends! Today we will meet the wolf. Wolves look like big wild dogs.
+
+# What does it look like?
+[image: photos/wolf-looks.jpg]
+A wolf has thick fur, pointy ears, and a bushy tail.
+
+# Where does it live?
+[image: photos/wolf-where.jpg]
+Wolves live in forests, mountains, and cold snowy places.
+
+# What does it eat?
+[image: photos/wolf-eat.jpg]
+Wolves eat meat. They hunt together as a team.
+
+# Wolf family
+[image: photos/wolf-extra.jpg]
+Wolves live together in a family. A wolf family is called a pack.
+
+# Fun fact
+[image: photos/wolf-fact.jpg]
+Wolves howl to talk to each other. Can you howl like a wolf? Awoo!
+
+# See you next time
+[image: photos/wolf-bye.jpg]
+Goodbye, wolf! See you next time, friends.

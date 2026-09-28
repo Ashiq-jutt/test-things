@@ -1,0 +1,34 @@
+title: Meet the Lynx
+format: horizontal
+theme: midnight
+voice: af_bella
+rate: 150
+---
+
+# Meet the Lynx
+[image: photos/lynx-title.jpg]
+Hello friends! Today we will meet the lynx. The lynx is a wild cat with pointy ears.
+
+# What does it look like?
+[image: photos/lynx-looks.jpg]
+A lynx has thick fur, a short tail, and black tufts of hair on top of its ears.
+
+# Where does it live?
+[image: photos/lynx-where.jpg]
+Lynx live in cold forests and mountains.
+
+# What does it eat?
+[image: photos/lynx-eat.jpg]
+Lynx eat meat. They hunt rabbits and birds.
+
+# Big paws
+[image: photos/lynx-extra.jpg]
+A lynx has big, furry paws. They help it walk on deep snow.
+
+# Fun fact
+[image: photos/lynx-fact.jpg]
+A lynx can see and hear very well. It hunts quietly at night.
+
+# See you next time
+[image: photos/lynx-bye.jpg]
+Goodbye, lynx! See you next time, friends.
