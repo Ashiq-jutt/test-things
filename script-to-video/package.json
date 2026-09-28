@@ -1,0 +1,21 @@
+{
+  "name": "script-to-video",
+  "version": "1.0.0",
+  "description": "Turn a plain-text script into a narrated, captioned video. Runs fully on your Mac, no API keys.",
+  "type": "module",
+  "bin": {
+    "make-video": "src/cli.mjs"
+  },
+  "scripts": {
+    "video": "node src/cli.mjs",
+    "example": "node src/cli.mjs examples/ocean-facts.txt",
+    "voices": "node src/cli.mjs --list-voices"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.529",
+    "@remotion/renderer": "4.0.529",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "remotion": "4.0.529"
+  }
+}

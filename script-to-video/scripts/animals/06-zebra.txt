@@ -1,0 +1,33 @@
+title: Meet the Zebra
+format: horizontal
+theme: midnight
+rate: 150
+---
+
+# Meet the Zebra
+[emoji: 🦓]
+Hello friends! Today we will meet the zebra. A zebra looks like a horse with stripes.
+
+# What does it look like?
+[emoji: 👀]
+A zebra has black and white stripes all over its body. It has a short mane that stands up.
+
+# Where does it live?
+[emoji: 🌍]
+Zebras live in Africa. They live in wide, open grasslands.
+
+# What does it eat?
+[emoji: 🌾]
+Zebras eat grass. They spend most of the day eating.
+
+# Zebra family
+[emoji: 👨‍👩‍👧‍👦]
+Zebras live together in a group. A group of zebras is called a herd. They stay close to keep safe.
+
+# Fun fact
+[emoji: ⭐]
+Every zebra has its own stripes. No two zebras look the same!
+
+# See you next time
+[emoji: 👋]
+Goodbye, zebra! See you next time, friends.

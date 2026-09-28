@@ -1,0 +1,33 @@
+title: Meet the Cow
+format: horizontal
+theme: forest
+rate: 150
+---
+
+# Meet the Cow
+[emoji: 🐄]
+Hello friends! Today we will meet the cow. The cow is a gentle farm animal.
+
+# What does it look like?
+[emoji: 👀]
+A cow has a big body, four legs, and a long tail. Cows can be black, white, or brown.
+
+# Where does it live?
+[emoji: 🏡]
+Cows live on a farm. They like to walk in green fields.
+
+# What does it eat?
+[emoji: 🌾]
+Cows eat grass and hay. They chew their food again and again.
+
+# Cows give us milk
+[emoji: 🥛]
+Cows give us milk. We use milk to make butter, cheese, and yogurt.
+
+# Fun fact
+[emoji: ⭐]
+A baby cow is called a calf. And what does a cow say? Moo! Can you say moo?
+
+# See you next time
+[emoji: 👋]
+Goodbye, cow! See you next time, friends.
