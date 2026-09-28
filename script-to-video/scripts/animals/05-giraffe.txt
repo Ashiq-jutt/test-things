@@ -5,29 +5,29 @@ rate: 150
 ---
 
 # Meet the Giraffe
-[emoji: 🦒]
+[image: photos/giraffe-title.jpg]
 Hello friends! Today we will meet the giraffe. It is the tallest animal in the world.
 
 # What does it look like?
-[emoji: 👀]
+[image: photos/giraffe-looks.jpg]
 A giraffe has a very long neck and very long legs. Its body has brown spots.
 
 # Where does it live?
-[emoji: 🌍]
+[image: photos/giraffe-where.jpg]
 Giraffes live in Africa. They walk in open grasslands with tall trees.
 
 # What does it eat?
-[emoji: 🌿]
+[image: photos/giraffe-eat.jpg]
 Giraffes eat leaves from the top of tall trees. No other animal can reach so high!
 
 # The long tongue
-[emoji: 👅]
+[image: photos/giraffe-extra.jpg]
 A giraffe has a long, dark tongue. It is about as long as your arm!
 
 # Fun fact
-[emoji: ⭐]
+[image: photos/giraffe-fact.jpg]
 A baby giraffe can stand up and walk soon after it is born. Can you stretch up tall like a giraffe?
 
 # See you next time
-[emoji: 👋]
+[image: photos/giraffe-bye.jpg]
 Goodbye, giraffe! See you next time, friends.

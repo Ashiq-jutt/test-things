@@ -5,29 +5,29 @@ rate: 150
 ---
 
 # Meet the Monkey
-[emoji: 🐒]
+[image: photos/monkey-title.jpg]
 Hello friends! Today we will meet the monkey. Monkeys are clever and playful.
 
 # What does it look like?
-[emoji: 👀]
+[image: photos/monkey-looks.jpg]
 A monkey has long arms, long legs, and a long tail. Its hands look a little like your hands.
 
 # Where does it live?
-[emoji: 🌳]
+[image: photos/monkey-where.jpg]
 Many monkeys live in forests. They love to climb and jump from tree to tree.
 
 # What does it eat?
-[emoji: 🍌]
+[image: photos/monkey-eat.jpg]
 Monkeys eat fruit, leaves, nuts, and small insects.
 
 # Monkey family
-[emoji: 👨‍👩‍👧‍👦]
+[image: photos/monkey-extra.jpg]
 Monkeys live together in a group. A group of monkeys is called a troop.
 
 # Fun fact
-[emoji: ⭐]
+[image: photos/monkey-fact.jpg]
 Many monkeys use their tail to keep their balance. Can you jump like a monkey?
 
 # See you next time
-[emoji: 👋]
+[image: photos/monkey-bye.jpg]
 Goodbye, monkey! See you next time, friends.

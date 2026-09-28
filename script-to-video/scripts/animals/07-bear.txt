@@ -5,29 +5,29 @@ rate: 150
 ---
 
 # Meet the Bear
-[emoji: 🐻]
+[image: photos/bear-title.jpg]
 Hello friends! Today we will meet the bear. Bears are big and strong.
 
 # What does it look like?
-[emoji: 👀]
+[image: photos/bear-looks.jpg]
 A bear has thick fur, small round ears, and big paws with sharp claws.
 
 # Where does it live?
-[emoji: 🏔️]
+[image: photos/bear-where.jpg]
 Many bears live in forests and mountains. Polar bears live in the cold, icy north.
 
 # What does it eat?
-[emoji: 🍯]
+[image: photos/bear-eat.jpg]
 Bears eat fish, berries, plants, and sweet honey.
 
 # The long sleep
-[emoji: 😴]
+[image: photos/bear-extra.jpg]
 In winter, many bears sleep for a very long time. They rest in a cozy den until spring.
 
 # Fun fact
-[emoji: ⭐]
+[image: photos/bear-fact.jpg]
 A bear has a very good nose. It can smell food from far away. Can you walk like a big bear?
 
 # See you next time
-[emoji: 👋]
+[image: photos/bear-bye.jpg]
 Goodbye, bear! See you next time, friends.

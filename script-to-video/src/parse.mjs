@@ -22,7 +22,7 @@ function splitSettings(text) {
 }
 
 function parseScene(block, baseDir) {
-  const scene = { heading: null, emoji: null, image: null, pause: 0, narration: '' };
+  const scene = { heading: null, emoji: null, image: null, photo: null, pause: 0, narration: '' };
   const spoken = [];
 
   for (const raw of block.split('\n')) {
@@ -45,6 +45,9 @@ function parseScene(block, baseDir) {
           scene.image = file;
           break;
         }
+        case 'photo':
+          scene.photo = value;
+          break;
         case 'emoji':
           scene.emoji = value;
           break;
@@ -52,7 +55,7 @@ function parseScene(block, baseDir) {
           scene.pause = Math.max(0, Number(value) || 0);
           break;
         default:
-          throw new Error(`Unknown tag [${name}: ...]. Supported tags: image, emoji, pause`);
+          throw new Error(`Unknown tag [${name}: ...]. Supported tags: image, photo, emoji, pause`);
       }
       continue;
     }
@@ -77,7 +80,7 @@ export function parseScript(file) {
     .map((block) => block.trim())
     .filter(Boolean)
     .map((block) => parseScene(block, baseDir))
-    .filter((scene) => scene.narration || scene.image);
+    .filter((scene) => scene.narration || scene.image || scene.photo);
 
   if (scenes.length === 0) throw new Error(`No scenes found in ${file}`);
 

@@ -5,29 +5,29 @@ rate: 150
 ---
 
 # Meet the Cat
-[emoji: 🐱]
+[image: photos/cat-title.jpg]
 Hello friends! Today we will meet the cat. Cats are soft and quiet.
 
 # What does it look like?
-[emoji: 👀]
+[image: photos/cat-looks.jpg]
 A cat has soft fur, pointy ears, and long whiskers. It has sharp little claws.
 
 # Where does it live?
-[emoji: 🏡]
+[image: photos/cat-where.jpg]
 Many cats live at home with a family. They love warm and cozy places.
 
 # What does it eat?
-[emoji: 🐟]
+[image: photos/cat-eat.jpg]
 Cats eat cat food, fish, and meat.
 
 # Sleepy cats
-[emoji: 😴]
+[image: photos/cat-extra.jpg]
 Cats love to sleep. A cat sleeps for more than half of the day!
 
 # Fun fact
-[emoji: ⭐]
+[image: photos/cat-fact.jpg]
 Cats can see very well when it is almost dark. And a baby cat is called a kitten. What does a cat say? Meow!
 
 # See you next time
-[emoji: 👋]
+[image: photos/cat-bye.jpg]
 Goodbye, cat! See you next time, friends.

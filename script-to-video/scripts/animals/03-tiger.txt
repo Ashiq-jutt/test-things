@@ -5,29 +5,29 @@ rate: 150
 ---
 
 # Meet the Tiger
-[emoji: 🐯]
+[image: photos/tiger-title.jpg]
 Hello friends! Today we will meet the tiger. The tiger is the biggest cat in the world.
 
 # What does it look like?
-[emoji: 👀]
+[image: photos/tiger-looks.jpg]
 A tiger has orange fur with black stripes. It has sharp teeth and a long tail.
 
 # Where does it live?
-[emoji: 🌍]
+[image: photos/tiger-where.jpg]
 Tigers live in Asia. They live in forests and in tall grass.
 
 # What does it eat?
-[emoji: 🍖]
+[image: photos/tiger-eat.jpg]
 Tigers eat meat. They hunt quietly, mostly at night.
 
 # Tigers love water
-[emoji: 🏊]
+[image: photos/tiger-extra.jpg]
 Most cats do not like water. But tigers love to swim! They jump in the water to cool down.
 
 # Fun fact
-[emoji: ⭐]
+[image: photos/tiger-fact.jpg]
 No two tigers have the same stripes. Every tiger is special, just like you!
 
 # See you next time
-[emoji: 👋]
+[image: photos/tiger-bye.jpg]
 Goodbye, tiger! See you next time, friends.

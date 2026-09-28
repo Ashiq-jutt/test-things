@@ -5,29 +5,29 @@ rate: 150
 ---
 
 # Meet the Dog
-[emoji: 🐶]
+[image: photos/dog-title.jpg]
 Hello friends! Today we will meet the dog. Dogs are our best friends.
 
 # What does it look like?
-[emoji: 👀]
+[image: photos/dog-looks.jpg]
 A dog has four legs, a wet nose, and a wagging tail. Dogs can be big or small.
 
 # Where does it live?
-[emoji: 🏡]
+[image: photos/dog-where.jpg]
 Many dogs live at home with a family. They love to play and go for walks.
 
 # What does it eat?
-[emoji: 🦴]
+[image: photos/dog-eat.jpg]
 Dogs eat dog food and meat. They need fresh water every day.
 
 # Dogs help people
-[emoji: 🦮]
+[image: photos/dog-extra.jpg]
 Dogs are very helpful. Some dogs guard our homes. Some dogs help people who cannot see.
 
 # Fun fact
-[emoji: ⭐]
+[image: photos/dog-fact.jpg]
 A dog can smell much better than you can. And a baby dog is called a puppy. What does a dog say? Woof woof!
 
 # See you next time
-[emoji: 👋]
+[image: photos/dog-bye.jpg]
 Goodbye, dog! See you next time, friends.

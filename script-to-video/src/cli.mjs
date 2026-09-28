@@ -8,6 +8,7 @@ import { listVoices, resolveVoice, writeWav } from './tts.mjs';
 import { buildTimeline } from './timeline.mjs';
 import { enrichScenes } from './ai.mjs';
 import { FORMATS, addAudio, renderVisuals } from './render.mjs';
+import { creditLines, findPhoto } from './photos.mjs';
 
 const THEME_NAMES = ['midnight', 'sunset', 'forest', 'paper'];
 const FPS = 30;
@@ -94,6 +95,7 @@ async function main() {
   const output = path.resolve(values.out ?? path.join('output', `${name}.mp4`));
   fs.mkdirSync(path.dirname(output), { recursive: true });
 
+  const photoDir = path.join(path.dirname(scriptFile), 'photos');
   const workDir = fs.mkdtempSync(path.join(os.tmpdir(), 'script-to-video-'));
   const started = Date.now();
 
@@ -111,6 +113,27 @@ async function main() {
       } catch (error) {
         status(`Skipped AI headlines (${error.message})\n`);
       }
+    }
+
+    const photoCount = scenes.filter((scene) => scene.photo && !scene.image).length;
+    if (photoCount > 0) {
+      let found = 0;
+      const resolved = [];
+      for (const scene of scenes) {
+        if (!scene.photo || scene.image) {
+          resolved.push(scene);
+          continue;
+        }
+        status(`Finding photos: ${++found}/${photoCount}`);
+        try {
+          resolved.push({ ...scene, image: await findPhoto(scene.photo, { photoDir, format }) });
+        } catch (error) {
+          status(`No photo for "${scene.photo}" (${error.message})\n`);
+          resolved.push(scene);
+        }
+      }
+      scenes = resolved;
+      status(`Photos ready, saved in ${path.relative(process.cwd(), photoDir) || '.'}\n`);
     }
 
     const timeline = await buildTimeline(scenes, {
@@ -146,6 +169,14 @@ async function main() {
     const seconds = ((Date.now() - started) / 1000).toFixed(0);
     const sizeMb = (fs.statSync(output).size / 1024 / 1024).toFixed(1);
     console.log(`\nDone in ${seconds}s: ${output} (${sizeMb} MB)\n`);
+
+    const images = scenes.map((scene) => scene.image).filter(Boolean);
+    const credits = [...new Set(images.flatMap((image) => creditLines([image], path.dirname(image))))];
+    if (credits.length > 0) {
+      const creditsFile = output.replace(/\.mp4$/i, '') + '-credits.txt';
+      fs.writeFileSync(creditsFile, `Photo credits:\n${credits.join('\n')}\n`);
+      console.log(`Some photos need a credit. Paste this file into the video description:\n${creditsFile}\n`);
+    }
   } finally {
     fs.rmSync(workDir, { recursive: true, force: true });
   }

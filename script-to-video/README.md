@@ -32,7 +32,8 @@ More than eighty percent of the ocean has never been seen by human eyes.
 |---|---|
 | `# Heading` | Large on-screen headline. A heading with no other text becomes a title card. |
 | `[emoji: 🌊]` | Large emoji above the headline |
-| `[image: file.jpg]` | Full-screen background image with a slow zoom (path is relative to the script) |
+| `[image: file.jpg]` | Full-screen photo with a slow zoom (path is relative to the script) |
+| `[photo: lion roaring]` | Searches for a free photo and downloads it. Add `#2`, `#3`... to take a different result. |
 | `[pause: 1.5]` | Extra seconds of silence at the end of the scene |
 | Anything else | Narration, spoken aloud and shown as captions |
 
@@ -53,6 +54,13 @@ The settings block at the top is optional. It ends with a `---` line and accepts
 | `--list-voices` | Show the voices installed on this Mac |
 
 Options on the command line override the settings in the script.
+
+## Photos
+
+`[photo: ...]` searches [Openverse](https://openverse.org) for photos that are free for commercial use. Downloads are saved in a `photos` folder next to the script, along with `credits.json`.
+
+- The search picks automatically and can pick a wrong picture. Check the photos in the folder before publishing. To change one, add `#2` to the tag or replace the file with your own, keeping the same name.
+- Most photos are public domain and need no credit. When a photo does need one, the tool writes a `-credits.txt` file next to the video. Paste it into the video description.
 
 ## Voices
 
